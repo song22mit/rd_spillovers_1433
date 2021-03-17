@@ -1,0 +1,960 @@
+fice,fice_combined,year,toi_code,ffrdctype,inst_name_long,inst_city,inst_state,inst_zip,questionnaire_no,question,row,column,data,status
+401119,000000,1993,3,1,Natl Astron & Ionos Ctr,Ithaca,NY,14853,01,Source,All other sources,,147,
+401119,000000,1993,3,1,Natl Astron & Ionos Ctr,Ithaca,NY,14853,01,Source,Federal government,,10843,
+401119,000000,1993,3,1,Natl Astron & Ionos Ctr,Ithaca,NY,14853,01,Source,Total,,10990,
+401119,000000,1993,3,1,Natl Astron & Ionos Ctr,Ithaca,NY,14853,02,Expenditures by S&E field,All,Federal,10843,
+401119,000000,1993,3,1,Natl Astron & Ionos Ctr,Ithaca,NY,14853,02,Expenditures by S&E field,All,Total,10990,
+401119,000000,1993,3,1,Natl Astron & Ionos Ctr,Ithaca,NY,14853,02,Expenditures by S&E field,"Environmental sciences, all",Federal,1630,
+401119,000000,1993,3,1,Natl Astron & Ionos Ctr,Ithaca,NY,14853,02,Expenditures by S&E field,"Environmental sciences, all",Total,1656,
+401119,000000,1993,3,1,Natl Astron & Ionos Ctr,Ithaca,NY,14853,02,Expenditures by S&E field,"Environmental sciences, atmospheric sciences",Federal,1630,
+401119,000000,1993,3,1,Natl Astron & Ionos Ctr,Ithaca,NY,14853,02,Expenditures by S&E field,"Environmental sciences, atmospheric sciences",Total,1630,
+401119,000000,1993,3,1,Natl Astron & Ionos Ctr,Ithaca,NY,14853,02,Expenditures by S&E field,"Environmental sciences, other",Total,26,
+401119,000000,1993,3,1,Natl Astron & Ionos Ctr,Ithaca,NY,14853,02,Expenditures by S&E field,"Physical sciences, all",Federal,9213,
+401119,000000,1993,3,1,Natl Astron & Ionos Ctr,Ithaca,NY,14853,02,Expenditures by S&E field,"Physical sciences, all",Total,9334,
+401119,000000,1993,3,1,Natl Astron & Ionos Ctr,Ithaca,NY,14853,02,Expenditures by S&E field,"Physical sciences, astronomy",Federal,9213,
+401119,000000,1993,3,1,Natl Astron & Ionos Ctr,Ithaca,NY,14853,02,Expenditures by S&E field,"Physical sciences, astronomy",Total,9213,
+401119,000000,1993,3,1,Natl Astron & Ionos Ctr,Ithaca,NY,14853,02,Expenditures by S&E field,"Physical sciences, other",Total,121,
+401119,000000,1993,3,1,Natl Astron & Ionos Ctr,Ithaca,NY,14853,03,Equipment expenditures by S&E field,All,Federal,395,
+401119,000000,1993,3,1,Natl Astron & Ionos Ctr,Ithaca,NY,14853,03,Equipment expenditures by S&E field,All,Total,395,
+401119,000000,1993,3,1,Natl Astron & Ionos Ctr,Ithaca,NY,14853,03,Equipment expenditures by S&E field,"Environmental sciences, all",Federal,89,
+401119,000000,1993,3,1,Natl Astron & Ionos Ctr,Ithaca,NY,14853,03,Equipment expenditures by S&E field,"Environmental sciences, all",Total,89,
+401119,000000,1993,3,1,Natl Astron & Ionos Ctr,Ithaca,NY,14853,03,Equipment expenditures by S&E field,"Environmental sciences, atmospheric sciences",Federal,89,
+401119,000000,1993,3,1,Natl Astron & Ionos Ctr,Ithaca,NY,14853,03,Equipment expenditures by S&E field,"Environmental sciences, atmospheric sciences",Total,89,
+401119,000000,1993,3,1,Natl Astron & Ionos Ctr,Ithaca,NY,14853,03,Equipment expenditures by S&E field,"Physical sciences, all",Federal,306,
+401119,000000,1993,3,1,Natl Astron & Ionos Ctr,Ithaca,NY,14853,03,Equipment expenditures by S&E field,"Physical sciences, all",Total,306,
+401119,000000,1993,3,1,Natl Astron & Ionos Ctr,Ithaca,NY,14853,03,Equipment expenditures by S&E field,"Physical sciences, astronomy",Federal,306,
+401119,000000,1993,3,1,Natl Astron & Ionos Ctr,Ithaca,NY,14853,03,Equipment expenditures by S&E field,"Physical sciences, astronomy",Total,306,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,01,Source,All other sources,,3566,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,01,Source,Federal government,,995083,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,01,Source,Total,,998649,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,02,Expenditures by S&E field,All,Federal,995083,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,02,Expenditures by S&E field,All,Total,998649,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,02,Expenditures by S&E field,"Computer sciences, all",Federal,51995,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,02,Expenditures by S&E field,"Computer sciences, all",Total,52182,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,02,Expenditures by S&E field,"Engineering, all",Federal,330699,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,02,Expenditures by S&E field,"Engineering, all",Total,331882,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,02,Expenditures by S&E field,"Engineering, electrical",Federal,141444,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,02,Expenditures by S&E field,"Engineering, electrical",Total,141951,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,02,Expenditures by S&E field,"Engineering, mechanical",Federal,189255,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,02,Expenditures by S&E field,"Engineering, mechanical",Total,189931,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,02,Expenditures by S&E field,"Environmental sciences, all",Federal,21282,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,02,Expenditures by S&E field,"Environmental sciences, all",Total,21359,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,02,Expenditures by S&E field,"Environmental sciences, atmospheric sciences",Federal,4618,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,02,Expenditures by S&E field,"Environmental sciences, atmospheric sciences",Total,4635,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,02,Expenditures by S&E field,"Environmental sciences, earth sciences",Federal,16664,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,02,Expenditures by S&E field,"Environmental sciences, earth sciences",Total,16724,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,02,Expenditures by S&E field,"Life sciences, all",Federal,19384,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,02,Expenditures by S&E field,"Life sciences, all",Total,19454,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,02,Expenditures by S&E field,"Life sciences, biological sciences",Federal,19384,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,02,Expenditures by S&E field,"Life sciences, biological sciences",Total,19454,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,02,Expenditures by S&E field,"Mathematical sciences, all",Federal,51203,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,02,Expenditures by S&E field,"Mathematical sciences, all",Total,51387,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,02,Expenditures by S&E field,"Physical sciences, all",Federal,520520,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,02,Expenditures by S&E field,"Physical sciences, all",Total,522385,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,02,Expenditures by S&E field,"Physical sciences, chemistry",Federal,45389,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,02,Expenditures by S&E field,"Physical sciences, chemistry",Total,45552,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,02,Expenditures by S&E field,"Physical sciences, physics",Federal,475131,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,02,Expenditures by S&E field,"Physical sciences, physics",Total,476833,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,03,Equipment expenditures by S&E field,All,Federal,46859,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,03,Equipment expenditures by S&E field,All,Total,46908,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,03,Equipment expenditures by S&E field,"Computer sciences, all",Federal,2448,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,03,Equipment expenditures by S&E field,"Computer sciences, all",Total,2451,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,03,Equipment expenditures by S&E field,"Engineering, all",Federal,15574,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,03,Equipment expenditures by S&E field,"Engineering, all",Total,15587,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,03,Equipment expenditures by S&E field,"Engineering, electrical",Federal,6661,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,03,Equipment expenditures by S&E field,"Engineering, electrical",Total,6668,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,03,Equipment expenditures by S&E field,"Engineering, mechanical",Federal,8913,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,03,Equipment expenditures by S&E field,"Engineering, mechanical",Total,8919,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,03,Equipment expenditures by S&E field,"Environmental sciences, all",Federal,1002,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,03,Equipment expenditures by S&E field,"Environmental sciences, all",Total,1004,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,03,Equipment expenditures by S&E field,"Environmental sciences, atmospheric sciences",Federal,217,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,03,Equipment expenditures by S&E field,"Environmental sciences, atmospheric sciences",Total,218,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,03,Equipment expenditures by S&E field,"Environmental sciences, earth sciences",Federal,785,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,03,Equipment expenditures by S&E field,"Environmental sciences, earth sciences",Total,786,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,03,Equipment expenditures by S&E field,"Life sciences, all",Federal,913,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,03,Equipment expenditures by S&E field,"Life sciences, all",Total,914,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,03,Equipment expenditures by S&E field,"Life sciences, biological sciences",Federal,913,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,03,Equipment expenditures by S&E field,"Life sciences, biological sciences",Total,914,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,03,Equipment expenditures by S&E field,"Mathematical sciences, all",Federal,2411,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,03,Equipment expenditures by S&E field,"Mathematical sciences, all",Total,2414,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,03,Equipment expenditures by S&E field,"Physical sciences, all",Federal,24511,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,03,Equipment expenditures by S&E field,"Physical sciences, all",Total,24538,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,03,Equipment expenditures by S&E field,"Physical sciences, chemistry",Federal,2137,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,03,Equipment expenditures by S&E field,"Physical sciences, chemistry",Total,2140,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,03,Equipment expenditures by S&E field,"Physical sciences, physics",Federal,22374,
+401435,000000,1993,3,1,Lawrence Livermore Lab,Livermore,CA,94550,03,Equipment expenditures by S&E field,"Physical sciences, physics",Total,22398,
+900010,000000,1993,3,1,Lincoln Laboratory,Lexington,MA,02173,01,Source,Federal government,,355197,
+900010,000000,1993,3,1,Lincoln Laboratory,Lexington,MA,02173,01,Source,Total,,355197,
+900010,000000,1993,3,1,Lincoln Laboratory,Lexington,MA,02173,02,Expenditures by S&E field,All,Federal,355197,
+900010,000000,1993,3,1,Lincoln Laboratory,Lexington,MA,02173,02,Expenditures by S&E field,All,Total,355197,
+900010,000000,1993,3,1,Lincoln Laboratory,Lexington,MA,02173,02,Expenditures by S&E field,"Computer sciences, all",Federal,20601,
+900010,000000,1993,3,1,Lincoln Laboratory,Lexington,MA,02173,02,Expenditures by S&E field,"Computer sciences, all",Total,20601,
+900010,000000,1993,3,1,Lincoln Laboratory,Lexington,MA,02173,02,Expenditures by S&E field,"Engineering, all",Federal,247395,
+900010,000000,1993,3,1,Lincoln Laboratory,Lexington,MA,02173,02,Expenditures by S&E field,"Engineering, all",Total,247395,
+900010,000000,1993,3,1,Lincoln Laboratory,Lexington,MA,02173,02,Expenditures by S&E field,"Engineering, electrical",Federal,186610,
+900010,000000,1993,3,1,Lincoln Laboratory,Lexington,MA,02173,02,Expenditures by S&E field,"Engineering, electrical",Total,186610,
+900010,000000,1993,3,1,Lincoln Laboratory,Lexington,MA,02173,02,Expenditures by S&E field,"Engineering, mechanical",Federal,19371,
+900010,000000,1993,3,1,Lincoln Laboratory,Lexington,MA,02173,02,Expenditures by S&E field,"Engineering, mechanical",Total,19371,
+900010,000000,1993,3,1,Lincoln Laboratory,Lexington,MA,02173,02,Expenditures by S&E field,"Engineering, metallurgical and materials",Federal,1658,
+900010,000000,1993,3,1,Lincoln Laboratory,Lexington,MA,02173,02,Expenditures by S&E field,"Engineering, metallurgical and materials",Total,1658,
+900010,000000,1993,3,1,Lincoln Laboratory,Lexington,MA,02173,02,Expenditures by S&E field,"Engineering, other",Federal,39756,
+900010,000000,1993,3,1,Lincoln Laboratory,Lexington,MA,02173,02,Expenditures by S&E field,"Engineering, other",Total,39756,
+900010,000000,1993,3,1,Lincoln Laboratory,Lexington,MA,02173,02,Expenditures by S&E field,"Environmental sciences, all",Federal,3801,
+900010,000000,1993,3,1,Lincoln Laboratory,Lexington,MA,02173,02,Expenditures by S&E field,"Environmental sciences, all",Total,3801,
+900010,000000,1993,3,1,Lincoln Laboratory,Lexington,MA,02173,02,Expenditures by S&E field,"Environmental sciences, atmospheric sciences",Federal,3801,
+900010,000000,1993,3,1,Lincoln Laboratory,Lexington,MA,02173,02,Expenditures by S&E field,"Environmental sciences, atmospheric sciences",Total,3801,
+900010,000000,1993,3,1,Lincoln Laboratory,Lexington,MA,02173,02,Expenditures by S&E field,"Mathematical sciences, all",Federal,15984,
+900010,000000,1993,3,1,Lincoln Laboratory,Lexington,MA,02173,02,Expenditures by S&E field,"Mathematical sciences, all",Total,15984,
+900010,000000,1993,3,1,Lincoln Laboratory,Lexington,MA,02173,02,Expenditures by S&E field,"Physical sciences, all",Federal,67416,
+900010,000000,1993,3,1,Lincoln Laboratory,Lexington,MA,02173,02,Expenditures by S&E field,"Physical sciences, all",Total,67416,
+900010,000000,1993,3,1,Lincoln Laboratory,Lexington,MA,02173,02,Expenditures by S&E field,"Physical sciences, chemistry",Federal,4234,
+900010,000000,1993,3,1,Lincoln Laboratory,Lexington,MA,02173,02,Expenditures by S&E field,"Physical sciences, chemistry",Total,4234,
+900010,000000,1993,3,1,Lincoln Laboratory,Lexington,MA,02173,02,Expenditures by S&E field,"Physical sciences, physics",Federal,63182,
+900010,000000,1993,3,1,Lincoln Laboratory,Lexington,MA,02173,02,Expenditures by S&E field,"Physical sciences, physics",Total,63182,
+900010,000000,1993,3,1,Lincoln Laboratory,Lexington,MA,02173,03,Equipment expenditures by S&E field,All,Federal,0,
+900010,000000,1993,3,1,Lincoln Laboratory,Lexington,MA,02173,03,Equipment expenditures by S&E field,All,Total,0,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,01,Source,Federal government,,34262,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,01,Source,Total,,34262,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,02,Expenditures by S&E field,All,Federal,34262,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,02,Expenditures by S&E field,All,Total,34262,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,02,Expenditures by S&E field,"Computer sciences, all",Federal,2752,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,02,Expenditures by S&E field,"Computer sciences, all",Total,2752,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,02,Expenditures by S&E field,"Engineering, all",Federal,6836,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,02,Expenditures by S&E field,"Engineering, all",Total,6836,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,02,Expenditures by S&E field,"Engineering, chemical",Federal,638,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,02,Expenditures by S&E field,"Engineering, chemical",Total,638,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,02,Expenditures by S&E field,"Engineering, civil",Federal,113,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,02,Expenditures by S&E field,"Engineering, civil",Total,113,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,02,Expenditures by S&E field,"Engineering, electrical",Federal,1069,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,02,Expenditures by S&E field,"Engineering, electrical",Total,1069,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,02,Expenditures by S&E field,"Engineering, mechanical",Federal,263,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,02,Expenditures by S&E field,"Engineering, mechanical",Total,263,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,02,Expenditures by S&E field,"Engineering, metallurgical and materials",Federal,2108,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,02,Expenditures by S&E field,"Engineering, metallurgical and materials",Total,2108,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,02,Expenditures by S&E field,"Engineering, other",Federal,2645,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,02,Expenditures by S&E field,"Engineering, other",Total,2645,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,02,Expenditures by S&E field,"Mathematical sciences, all",Federal,2011,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,02,Expenditures by S&E field,"Mathematical sciences, all",Total,2011,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,02,Expenditures by S&E field,"Physical sciences, all",Federal,22663,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,02,Expenditures by S&E field,"Physical sciences, all",Total,22663,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,02,Expenditures by S&E field,"Physical sciences, chemistry",Federal,9763,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,02,Expenditures by S&E field,"Physical sciences, chemistry",Total,9763,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,02,Expenditures by S&E field,"Physical sciences, physics",Federal,12900,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,02,Expenditures by S&E field,"Physical sciences, physics",Total,12900,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,03,Equipment expenditures by S&E field,All,Federal,2658,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,03,Equipment expenditures by S&E field,All,Total,2658,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,03,Equipment expenditures by S&E field,"Computer sciences, all",Federal,62,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,03,Equipment expenditures by S&E field,"Computer sciences, all",Total,62,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,03,Equipment expenditures by S&E field,"Engineering, all",Federal,650,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,03,Equipment expenditures by S&E field,"Engineering, all",Total,650,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,03,Equipment expenditures by S&E field,"Engineering, chemical",Federal,104,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,03,Equipment expenditures by S&E field,"Engineering, chemical",Total,104,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,03,Equipment expenditures by S&E field,"Engineering, electrical",Federal,17,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,03,Equipment expenditures by S&E field,"Engineering, electrical",Total,17,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,03,Equipment expenditures by S&E field,"Engineering, metallurgical and materials",Federal,352,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,03,Equipment expenditures by S&E field,"Engineering, metallurgical and materials",Total,352,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,03,Equipment expenditures by S&E field,"Engineering, other",Federal,177,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,03,Equipment expenditures by S&E field,"Engineering, other",Total,177,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,03,Equipment expenditures by S&E field,"Mathematical sciences, all",Federal,5,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,03,Equipment expenditures by S&E field,"Mathematical sciences, all",Total,5,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,03,Equipment expenditures by S&E field,"Physical sciences, all",Federal,1941,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,03,Equipment expenditures by S&E field,"Physical sciences, all",Total,1941,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,03,Equipment expenditures by S&E field,"Physical sciences, chemistry",Federal,909,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,03,Equipment expenditures by S&E field,"Physical sciences, chemistry",Total,909,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,03,Equipment expenditures by S&E field,"Physical sciences, physics",Federal,1032,
+900011,000000,1993,3,1,Ames Laboratory,Ames,IA,50011,03,Equipment expenditures by S&E field,"Physical sciences, physics",Total,1032,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,01,Source,All other sources,,9915,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,01,Source,Federal government,,436933,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,01,Source,State and local government,,1032,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,01,Source,Total,,447880,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,All,Federal,436933,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,All,Total,447880,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,"Computer sciences, all",Federal,4672,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,"Computer sciences, all",Total,4933,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,"Engineering, aeronautical and astronautical",Federal,0,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,"Engineering, aeronautical and astronautical",Total,0,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,"Engineering, all",Federal,203876,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,"Engineering, all",Total,207975,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,"Engineering, chemical",Federal,20388,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,"Engineering, chemical",Total,20798,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,"Engineering, civil",Federal,2039,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,"Engineering, civil",Total,2080,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,"Engineering, electrical",Federal,14266,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,"Engineering, electrical",Total,14557,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,"Engineering, mechanical",Federal,61161,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,"Engineering, mechanical",Total,62391,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,"Engineering, other",Federal,106022,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,"Engineering, other",Total,108149,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,"Environmental sciences, all",Federal,86835,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,"Environmental sciences, all",Total,88567,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,"Environmental sciences, atmospheric sciences",Federal,4342,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,"Environmental sciences, atmospheric sciences",Total,4428,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,"Environmental sciences, earth sciences",Federal,0,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,"Environmental sciences, earth sciences",Total,0,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,"Environmental sciences, oceanography",Federal,0,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,"Environmental sciences, oceanography",Total,0,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,"Environmental sciences, other",Federal,82493,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,"Environmental sciences, other",Total,84139,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,"Life sciences, all",Federal,20523,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,"Life sciences, all",Total,22477,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,"Life sciences, biological sciences",Federal,20523,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,"Life sciences, biological sciences",Total,22477,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,"Mathematical sciences, all",Federal,2270,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,"Mathematical sciences, all",Total,2400,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,"Physical sciences, all",Federal,118757,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,"Physical sciences, all",Total,121528,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,"Physical sciences, chemistry",Federal,32211,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,"Physical sciences, chemistry",Total,33535,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,"Physical sciences, physics",Federal,86546,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,02,Expenditures by S&E field,"Physical sciences, physics",Total,87993,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,All,Federal,19099,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,All,Total,19099,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,"Computer sciences, all",Federal,182,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,"Computer sciences, all",Total,182,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,"Engineering, aeronautical and astronautical",Federal,0,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,"Engineering, aeronautical and astronautical",Total,0,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,"Engineering, all",Federal,8578,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,"Engineering, all",Total,8578,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,"Engineering, chemical",Federal,858,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,"Engineering, chemical",Total,858,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,"Engineering, civil",Federal,86,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,"Engineering, civil",Total,86,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,"Engineering, electrical",Federal,606,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,"Engineering, electrical",Total,606,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,"Engineering, mechanical",Federal,2573,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,"Engineering, mechanical",Total,2573,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,"Engineering, other",Federal,4455,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,"Engineering, other",Total,4455,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,"Environmental sciences, all",Federal,4209,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,"Environmental sciences, all",Total,4209,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,"Environmental sciences, atmospheric sciences",Federal,211,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,"Environmental sciences, atmospheric sciences",Total,211,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,"Environmental sciences, earth sciences",Federal,0,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,"Environmental sciences, earth sciences",Total,0,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,"Environmental sciences, oceanography",Federal,0,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,"Environmental sciences, oceanography",Total,0,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,"Environmental sciences, other",Federal,3998,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,"Environmental sciences, other",Total,3998,e
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,"Life sciences, all",Federal,672,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,"Life sciences, all",Total,672,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,"Life sciences, biological sciences",Federal,672,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,"Life sciences, biological sciences",Total,672,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,"Mathematical sciences, all",Federal,37,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,"Mathematical sciences, all",Total,37,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,"Physical sciences, all",Federal,5421,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,"Physical sciences, all",Total,5421,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,"Physical sciences, chemistry",Federal,1334,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,"Physical sciences, chemistry",Total,1334,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,"Physical sciences, physics",Federal,4087,
+900012,000000,1993,3,1,Argonne Natl Laboratory,Argonne,IL,60439,03,Equipment expenditures by S&E field,"Physical sciences, physics",Total,4087,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,01,Source,Federal government,,293093,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,01,Source,Total,,293093,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,All,Federal,293093,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,All,Total,293093,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Computer sciences, all",Federal,1283,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Computer sciences, all",Total,1283,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Engineering, all",Federal,65388,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Engineering, all",Total,65388,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Engineering, chemical",Federal,1865,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Engineering, chemical",Total,1865,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Engineering, civil",Federal,67,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Engineering, civil",Total,67,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Engineering, electrical",Federal,629,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Engineering, electrical",Total,629,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Engineering, mechanical",Federal,1217,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Engineering, mechanical",Total,1217,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Engineering, metallurgical and materials",Federal,678,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Engineering, metallurgical and materials",Total,678,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Engineering, other",Federal,60932,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Engineering, other",Total,60932,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Environmental sciences, all",Federal,12612,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Environmental sciences, all",Total,12612,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Environmental sciences, atmospheric sciences",Federal,6809,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Environmental sciences, atmospheric sciences",Total,6809,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Environmental sciences, earth sciences",Federal,672,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Environmental sciences, earth sciences",Total,672,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Environmental sciences, oceanography",Federal,3268,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Environmental sciences, oceanography",Total,3268,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Environmental sciences, other",Federal,1863,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Environmental sciences, other",Total,1863,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Life sciences, agricultural sciences",Federal,1077,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Life sciences, agricultural sciences",Total,1077,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Life sciences, all",Federal,25240,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Life sciences, all",Total,25240,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Life sciences, biological sciences",Federal,15871,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Life sciences, biological sciences",Total,15871,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Life sciences, medical sciences",Federal,5466,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Life sciences, medical sciences",Total,5466,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Life sciences, other",Federal,2826,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Life sciences, other",Total,2826,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Other sciences, all",Federal,221,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Other sciences, all",Total,221,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Physical sciences, all",Federal,187081,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Physical sciences, all",Total,187081,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Physical sciences, chemistry",Federal,21569,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Physical sciences, chemistry",Total,21569,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Physical sciences, other",Federal,25948,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Physical sciences, other",Total,25948,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Physical sciences, physics",Federal,139564,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Physical sciences, physics",Total,139564,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Social sciences, all",Federal,1268,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Social sciences, all",Total,1268,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Social sciences, economics",Federal,446,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Social sciences, economics",Total,446,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Social sciences, other",Federal,822,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,02,Expenditures by S&E field,"Social sciences, other",Total,822,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,All,Federal,21437,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,All,Total,21437,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Engineering, all",Federal,702,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Engineering, all",Total,702,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Engineering, chemical",Federal,29,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Engineering, chemical",Total,29,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Engineering, mechanical",Federal,63,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Engineering, mechanical",Total,63,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Engineering, metallurgical and materials",Federal,80,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Engineering, metallurgical and materials",Total,80,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Engineering, other",Federal,530,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Engineering, other",Total,530,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Environmental sciences, all",Federal,586,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Environmental sciences, all",Total,586,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Environmental sciences, atmospheric sciences",Federal,178,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Environmental sciences, atmospheric sciences",Total,178,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Environmental sciences, earth sciences",Federal,288,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Environmental sciences, earth sciences",Total,288,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Environmental sciences, oceanography",Federal,113,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Environmental sciences, oceanography",Total,113,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Environmental sciences, other",Federal,7,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Environmental sciences, other",Total,7,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Life sciences, agricultural sciences",Federal,99,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Life sciences, agricultural sciences",Total,99,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Life sciences, all",Federal,1707,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Life sciences, all",Total,1707,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Life sciences, biological sciences",Federal,1529,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Life sciences, biological sciences",Total,1529,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Life sciences, other",Federal,79,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Life sciences, other",Total,79,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Other sciences, all",Federal,5,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Other sciences, all",Total,5,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Physical sciences, all",Federal,18420,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Physical sciences, all",Total,18420,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Physical sciences, chemistry",Federal,1872,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Physical sciences, chemistry",Total,1872,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Physical sciences, other",Federal,287,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Physical sciences, other",Total,287,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Physical sciences, physics",Federal,16261,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Physical sciences, physics",Total,16261,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Social sciences, all",Federal,17,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Social sciences, all",Total,17,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Social sciences, economics",Federal,17,
+900013,000000,1993,3,1,Brookhaven Natl Lab,Upton Long Island,NY,11973,03,Equipment expenditures by S&E field,"Social sciences, economics",Total,17,
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,01,Source,All other sources,,9906,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,01,Source,Federal government,,250177,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,01,Source,Industry,,1398,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,01,Source,"Institution funds, total",,666,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,01,Source,State and local government,,532,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,01,Source,Total,,262679,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,All,Federal,250177,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,All,Total,262679,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Computer sciences, all",Federal,1825,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Computer sciences, all",Total,2345,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Engineering, aeronautical and astronautical",Federal,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Engineering, aeronautical and astronautical",Total,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Engineering, all",Federal,11478,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Engineering, all",Total,11478,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Engineering, chemical",Federal,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Engineering, chemical",Total,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Engineering, civil",Federal,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Engineering, civil",Total,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Engineering, electrical",Federal,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Engineering, electrical",Total,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Engineering, mechanical",Federal,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Engineering, mechanical",Total,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Engineering, other",Federal,11478,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Engineering, other",Total,11478,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Environmental sciences, all",Federal,14199,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Environmental sciences, all",Total,15056,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Environmental sciences, atmospheric sciences",Federal,916,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Environmental sciences, atmospheric sciences",Total,916,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Environmental sciences, earth sciences",Federal,12763,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Environmental sciences, earth sciences",Total,13620,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Environmental sciences, oceanography",Federal,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Environmental sciences, oceanography",Total,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Environmental sciences, other",Federal,520,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Environmental sciences, other",Total,520,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Life sciences, agricultural sciences",Federal,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Life sciences, agricultural sciences",Total,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Life sciences, all",Federal,40845,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Life sciences, all",Total,43532,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Life sciences, biological sciences",Federal,35565,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Life sciences, biological sciences",Total,38014,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Life sciences, medical sciences",Federal,5280,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Life sciences, medical sciences",Total,5518,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Life sciences, other",Federal,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Life sciences, other",Total,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Mathematical sciences, all",Federal,1079,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Mathematical sciences, all",Total,1079,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Other sciences, all",Federal,7984,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Other sciences, all",Total,8593,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Physical sciences, all",Federal,172767,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Physical sciences, all",Total,180596,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Physical sciences, astronomy",Federal,470,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Physical sciences, astronomy",Total,670,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Physical sciences, chemistry",Federal,10369,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Physical sciences, chemistry",Total,10758,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Physical sciences, other",Federal,61176,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Physical sciences, other",Total,66806,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Physical sciences, physics",Federal,100752,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Physical sciences, physics",Total,102362,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Psychology, all",Federal,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Psychology, all",Total,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Social sciences, all",Federal,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Social sciences, all",Total,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Social sciences, economics",Federal,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Social sciences, economics",Total,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Social sciences, other",Federal,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Social sciences, other",Total,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Social sciences, political science",Federal,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Social sciences, political science",Total,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Social sciences, sociology",Federal,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,02,Expenditures by S&E field,"Social sciences, sociology",Total,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,All,Federal,17000,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,All,Total,17000,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Computer sciences, all",Federal,55,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Computer sciences, all",Total,55,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Engineering, aeronautical and astronautical",Federal,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Engineering, aeronautical and astronautical",Total,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Engineering, all",Federal,23,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Engineering, all",Total,23,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Engineering, chemical",Federal,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Engineering, chemical",Total,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Engineering, civil",Federal,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Engineering, civil",Total,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Engineering, electrical",Federal,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Engineering, electrical",Total,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Engineering, mechanical",Federal,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Engineering, mechanical",Total,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Engineering, other",Federal,23,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Engineering, other",Total,23,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Environmental sciences, all",Federal,156,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Environmental sciences, all",Total,156,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Environmental sciences, atmospheric sciences",Federal,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Environmental sciences, atmospheric sciences",Total,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Environmental sciences, earth sciences",Federal,156,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Environmental sciences, earth sciences",Total,156,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Environmental sciences, oceanography",Federal,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Environmental sciences, oceanography",Total,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Environmental sciences, other",Federal,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Environmental sciences, other",Total,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Life sciences, agricultural sciences",Federal,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Life sciences, agricultural sciences",Total,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Life sciences, all",Federal,1375,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Life sciences, all",Total,1375,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Life sciences, biological sciences",Federal,1375,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Life sciences, biological sciences",Total,1375,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Life sciences, medical sciences",Federal,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Life sciences, medical sciences",Total,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Life sciences, other",Federal,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Life sciences, other",Total,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Mathematical sciences, all",Federal,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Mathematical sciences, all",Total,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Other sciences, all",Federal,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Other sciences, all",Total,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Physical sciences, all",Federal,15391,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Physical sciences, all",Total,15391,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Physical sciences, astronomy",Federal,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Physical sciences, astronomy",Total,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Physical sciences, chemistry",Federal,1069,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Physical sciences, chemistry",Total,1069,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Physical sciences, other",Federal,3530,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Physical sciences, other",Total,3530,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Physical sciences, physics",Federal,10792,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Physical sciences, physics",Total,10792,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Psychology, all",Federal,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Psychology, all",Total,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Social sciences, all",Federal,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Social sciences, all",Total,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Social sciences, economics",Federal,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Social sciences, economics",Total,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Social sciences, other",Federal,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Social sciences, other",Total,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Social sciences, political science",Federal,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Social sciences, political science",Total,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Social sciences, sociology",Federal,0,e
+900016,000000,1993,3,1,Lawrence Berkeley Lab,Berkeley,CA,94701,03,Equipment expenditures by S&E field,"Social sciences, sociology",Total,0,e
+900017,000000,1993,3,1,Stanford Linear Accel Ctr,Menlo Park,CA,94025,01,Source,Federal government,,137081,
+900017,000000,1993,3,1,Stanford Linear Accel Ctr,Menlo Park,CA,94025,01,Source,Total,,137081,
+900017,000000,1993,3,1,Stanford Linear Accel Ctr,Menlo Park,CA,94025,02,Expenditures by S&E field,All,Federal,137081,
+900017,000000,1993,3,1,Stanford Linear Accel Ctr,Menlo Park,CA,94025,02,Expenditures by S&E field,All,Total,137081,
+900017,000000,1993,3,1,Stanford Linear Accel Ctr,Menlo Park,CA,94025,02,Expenditures by S&E field,"Physical sciences, all",Federal,137081,
+900017,000000,1993,3,1,Stanford Linear Accel Ctr,Menlo Park,CA,94025,02,Expenditures by S&E field,"Physical sciences, all",Total,137081,
+900017,000000,1993,3,1,Stanford Linear Accel Ctr,Menlo Park,CA,94025,02,Expenditures by S&E field,"Physical sciences, physics",Federal,137081,
+900017,000000,1993,3,1,Stanford Linear Accel Ctr,Menlo Park,CA,94025,02,Expenditures by S&E field,"Physical sciences, physics",Total,137081,
+900017,000000,1993,3,1,Stanford Linear Accel Ctr,Menlo Park,CA,94025,03,Equipment expenditures by S&E field,All,Federal,1495,
+900017,000000,1993,3,1,Stanford Linear Accel Ctr,Menlo Park,CA,94025,03,Equipment expenditures by S&E field,All,Total,1495,
+900017,000000,1993,3,1,Stanford Linear Accel Ctr,Menlo Park,CA,94025,03,Equipment expenditures by S&E field,"Physical sciences, all",Federal,1495,
+900017,000000,1993,3,1,Stanford Linear Accel Ctr,Menlo Park,CA,94025,03,Equipment expenditures by S&E field,"Physical sciences, all",Total,1495,
+900017,000000,1993,3,1,Stanford Linear Accel Ctr,Menlo Park,CA,94025,03,Equipment expenditures by S&E field,"Physical sciences, physics",Federal,1495,
+900017,000000,1993,3,1,Stanford Linear Accel Ctr,Menlo Park,CA,94025,03,Equipment expenditures by S&E field,"Physical sciences, physics",Total,1495,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,01,Source,All other sources,,17313,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,01,Source,Federal government,,1066887,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,01,Source,Total,,1084200,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,All,Federal,1066887,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,All,Total,1084200,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Computer sciences, all",Federal,50537,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Computer sciences, all",Total,51357,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Engineering, aeronautical and astronautical",Federal,7370,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Engineering, aeronautical and astronautical",Total,7490,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Engineering, all",Federal,397626,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Engineering, all",Total,404078,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Engineering, chemical",Federal,31936,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Engineering, chemical",Total,32455,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Engineering, civil",Federal,29831,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Engineering, civil",Total,30315,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Engineering, electrical",Federal,95458,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Engineering, electrical",Total,97007,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Engineering, mechanical",Federal,8423,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Engineering, mechanical",Total,8559,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Engineering, metallurgical and materials",Federal,101074,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Engineering, metallurgical and materials",Total,102714,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Engineering, other",Federal,123534,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Engineering, other",Total,125538,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Life sciences, all",Federal,71594,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Life sciences, all",Total,72756,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Life sciences, biological sciences",Federal,34042,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Life sciences, biological sciences",Total,34595,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Life sciences, medical sciences",Federal,2457,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Life sciences, medical sciences",Total,2497,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Life sciences, other",Federal,35095,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Life sciences, other",Total,35664,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Mathematical sciences, all",Federal,46325,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Mathematical sciences, all",Total,47077,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Other sciences, all",Federal,35797,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Other sciences, all",Total,36378,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Physical sciences, all",Federal,445004,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Physical sciences, all",Total,452225,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Physical sciences, astronomy",Federal,15442,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Physical sciences, astronomy",Total,15692,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Physical sciences, chemistry",Federal,133010,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Physical sciences, chemistry",Total,135168,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Physical sciences, other",Federal,14739,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Physical sciences, other",Total,14979,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Physical sciences, physics",Federal,281813,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Physical sciences, physics",Total,286386,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Social sciences, all",Federal,20004,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Social sciences, all",Total,20329,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Social sciences, other",Federal,14740,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Social sciences, other",Total,14979,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Social sciences, political science",Federal,5264,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,02,Expenditures by S&E field,"Social sciences, political science",Total,5350,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,All,Federal,56975,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,All,Total,56975,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Computer sciences, all",Federal,2699,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Computer sciences, all",Total,2699,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Engineering, aeronautical and astronautical",Federal,394,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Engineering, aeronautical and astronautical",Total,394,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Engineering, all",Federal,21234,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Engineering, all",Total,21234,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Engineering, chemical",Federal,1705,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Engineering, chemical",Total,1705,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Engineering, civil",Federal,1593,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Engineering, civil",Total,1593,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Engineering, electrical",Federal,5098,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Engineering, electrical",Total,5098,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Engineering, mechanical",Federal,450,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Engineering, mechanical",Total,450,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Engineering, metallurgical and materials",Federal,5398,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Engineering, metallurgical and materials",Total,5398,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Engineering, other",Federal,6596,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Engineering, other",Total,6596,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Life sciences, all",Federal,3823,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Life sciences, all",Total,3823,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Life sciences, biological sciences",Federal,1818,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Life sciences, biological sciences",Total,1818,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Life sciences, medical sciences",Federal,131,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Life sciences, medical sciences",Total,131,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Life sciences, other",Federal,1874,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Life sciences, other",Total,1874,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Mathematical sciences, all",Federal,2474,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Mathematical sciences, all",Total,2474,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Other sciences, all",Federal,1912,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Other sciences, all",Total,1912,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Physical sciences, all",Federal,23765,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Physical sciences, all",Total,23765,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Physical sciences, astronomy",Federal,825,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Physical sciences, astronomy",Total,825,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Physical sciences, chemistry",Federal,7103,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Physical sciences, chemistry",Total,7103,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Physical sciences, other",Federal,787,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Physical sciences, other",Total,787,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Physical sciences, physics",Federal,15050,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Physical sciences, physics",Total,15050,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Social sciences, all",Federal,1068,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Social sciences, all",Total,1068,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Social sciences, other",Federal,787,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Social sciences, other",Total,787,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Social sciences, political science",Federal,281,
+900018,000000,1993,3,1,Los Alamos National Lab,Los Alamos,NM,87545,03,Equipment expenditures by S&E field,"Social sciences, political science",Total,281,
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,01,Source,All other sources,,60,
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,01,Source,Federal government,,11048,
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,01,Source,Total,,11108,
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,All,Federal,11048,
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,All,Total,11108,
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Computer sciences, all",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Computer sciences, all",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Engineering, aeronautical and astronautical",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Engineering, aeronautical and astronautical",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Engineering, all",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Engineering, all",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Engineering, chemical",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Engineering, chemical",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Engineering, civil",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Engineering, civil",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Engineering, electrical",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Engineering, electrical",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Engineering, mechanical",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Engineering, mechanical",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Engineering, other",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Engineering, other",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Environmental sciences, all",Federal,312,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Environmental sciences, all",Total,312,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Environmental sciences, atmospheric sciences",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Environmental sciences, atmospheric sciences",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Environmental sciences, earth sciences",Federal,307,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Environmental sciences, earth sciences",Total,307,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Environmental sciences, oceanography",Federal,5,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Environmental sciences, oceanography",Total,5,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Environmental sciences, other",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Environmental sciences, other",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Life sciences, agricultural sciences",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Life sciences, agricultural sciences",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Life sciences, all",Federal,7742,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Life sciences, all",Total,7802,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Life sciences, biological sciences",Federal,6326,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Life sciences, biological sciences",Total,6386,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Life sciences, medical sciences",Federal,1416,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Life sciences, medical sciences",Total,1416,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Life sciences, other",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Life sciences, other",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Mathematical sciences, all",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Mathematical sciences, all",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Other sciences, all",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Other sciences, all",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Physical sciences, all",Federal,1975,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Physical sciences, all",Total,1975,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Physical sciences, astronomy",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Physical sciences, astronomy",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Physical sciences, chemistry",Federal,267,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Physical sciences, chemistry",Total,267,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Physical sciences, other",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Physical sciences, other",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Physical sciences, physics",Federal,1708,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Physical sciences, physics",Total,1708,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Psychology, all",Federal,887,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Psychology, all",Total,887,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Social sciences, all",Federal,132,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Social sciences, all",Total,132,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Social sciences, economics",Federal,132,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Social sciences, economics",Total,132,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Social sciences, other",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Social sciences, other",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Social sciences, political science",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Social sciences, political science",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Social sciences, sociology",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,02,Expenditures by S&E field,"Social sciences, sociology",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,All,Federal,110,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,All,Total,111,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Computer sciences, all",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Computer sciences, all",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Engineering, aeronautical and astronautical",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Engineering, aeronautical and astronautical",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Engineering, all",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Engineering, all",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Engineering, chemical",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Engineering, chemical",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Engineering, civil",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Engineering, civil",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Engineering, electrical",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Engineering, electrical",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Engineering, mechanical",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Engineering, mechanical",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Engineering, other",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Engineering, other",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Environmental sciences, all",Federal,24,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Environmental sciences, all",Total,24,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Environmental sciences, atmospheric sciences",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Environmental sciences, atmospheric sciences",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Environmental sciences, earth sciences",Federal,20,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Environmental sciences, earth sciences",Total,20,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Environmental sciences, oceanography",Federal,4,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Environmental sciences, oceanography",Total,4,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Environmental sciences, other",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Environmental sciences, other",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Life sciences, agricultural sciences",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Life sciences, agricultural sciences",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Life sciences, all",Federal,46,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Life sciences, all",Total,47,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Life sciences, biological sciences",Federal,36,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Life sciences, biological sciences",Total,37,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Life sciences, medical sciences",Federal,10,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Life sciences, medical sciences",Total,10,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Life sciences, other",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Life sciences, other",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Mathematical sciences, all",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Mathematical sciences, all",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Other sciences, all",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Other sciences, all",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Physical sciences, all",Federal,6,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Physical sciences, all",Total,6,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Physical sciences, astronomy",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Physical sciences, astronomy",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Physical sciences, chemistry",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Physical sciences, chemistry",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Physical sciences, other",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Physical sciences, other",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Physical sciences, physics",Federal,6,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Physical sciences, physics",Total,6,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Psychology, all",Federal,34,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Psychology, all",Total,34,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Social sciences, all",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Social sciences, all",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Social sciences, economics",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Social sciences, economics",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Social sciences, other",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Social sciences, other",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Social sciences, political science",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Social sciences, political science",Total,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Social sciences, sociology",Federal,0,e
+900019,000000,1993,3,1,Oak Ridge Associated U,Oak Ridge,TN,37831,03,Equipment expenditures by S&E field,"Social sciences, sociology",Total,0,e
+900020,000000,1993,3,1,Plasma Physics Laboratory,Princeton,NJ,08543,01,Source,Federal government,,115841,
+900020,000000,1993,3,1,Plasma Physics Laboratory,Princeton,NJ,08543,01,Source,"Institution funds, total",,513,
+900020,000000,1993,3,1,Plasma Physics Laboratory,Princeton,NJ,08543,01,Source,Total,,116354,
+900020,000000,1993,3,1,Plasma Physics Laboratory,Princeton,NJ,08543,02,Expenditures by S&E field,All,Federal,115841,
+900020,000000,1993,3,1,Plasma Physics Laboratory,Princeton,NJ,08543,02,Expenditures by S&E field,All,Total,116354,
+900020,000000,1993,3,1,Plasma Physics Laboratory,Princeton,NJ,08543,02,Expenditures by S&E field,"Physical sciences, all",Federal,115841,
+900020,000000,1993,3,1,Plasma Physics Laboratory,Princeton,NJ,08543,02,Expenditures by S&E field,"Physical sciences, all",Total,116354,
+900020,000000,1993,3,1,Plasma Physics Laboratory,Princeton,NJ,08543,02,Expenditures by S&E field,"Physical sciences, physics",Federal,115841,
+900020,000000,1993,3,1,Plasma Physics Laboratory,Princeton,NJ,08543,02,Expenditures by S&E field,"Physical sciences, physics",Total,116354,
+900020,000000,1993,3,1,Plasma Physics Laboratory,Princeton,NJ,08543,03,Equipment expenditures by S&E field,All,Federal,1961,
+900020,000000,1993,3,1,Plasma Physics Laboratory,Princeton,NJ,08543,03,Equipment expenditures by S&E field,All,Total,1961,
+900020,000000,1993,3,1,Plasma Physics Laboratory,Princeton,NJ,08543,03,Equipment expenditures by S&E field,"Physical sciences, all",Federal,1961,
+900020,000000,1993,3,1,Plasma Physics Laboratory,Princeton,NJ,08543,03,Equipment expenditures by S&E field,"Physical sciences, all",Total,1961,
+900020,000000,1993,3,1,Plasma Physics Laboratory,Princeton,NJ,08543,03,Equipment expenditures by S&E field,"Physical sciences, physics",Federal,1961,
+900020,000000,1993,3,1,Plasma Physics Laboratory,Princeton,NJ,08543,03,Equipment expenditures by S&E field,"Physical sciences, physics",Total,1961,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,01,Source,Federal government,,1100529,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,01,Source,Total,,1100529,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,02,Expenditures by S&E field,All,Federal,1100529,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,02,Expenditures by S&E field,All,Total,1100529,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,02,Expenditures by S&E field,"Computer sciences, all",Federal,478174,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,02,Expenditures by S&E field,"Computer sciences, all",Total,478174,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,02,Expenditures by S&E field,"Engineering, aeronautical and astronautical",Federal,151462,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,02,Expenditures by S&E field,"Engineering, aeronautical and astronautical",Total,151462,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,02,Expenditures by S&E field,"Engineering, all",Federal,433875,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,02,Expenditures by S&E field,"Engineering, all",Total,433875,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,02,Expenditures by S&E field,"Engineering, chemical",Federal,20714,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,02,Expenditures by S&E field,"Engineering, chemical",Total,20714,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,02,Expenditures by S&E field,"Engineering, electrical",Federal,90549,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,02,Expenditures by S&E field,"Engineering, electrical",Total,90549,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,02,Expenditures by S&E field,"Engineering, mechanical",Federal,133857,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,02,Expenditures by S&E field,"Engineering, mechanical",Total,133857,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,02,Expenditures by S&E field,"Engineering, metallurgical and materials",Federal,24133,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,02,Expenditures by S&E field,"Engineering, metallurgical and materials",Total,24133,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,02,Expenditures by S&E field,"Engineering, other",Federal,13160,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,02,Expenditures by S&E field,"Engineering, other",Total,13160,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,02,Expenditures by S&E field,"Environmental sciences, all",Federal,102512,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,02,Expenditures by S&E field,"Environmental sciences, all",Total,102512,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,02,Expenditures by S&E field,"Environmental sciences, atmospheric sciences",Federal,35481,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,02,Expenditures by S&E field,"Environmental sciences, atmospheric sciences",Total,35481,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,02,Expenditures by S&E field,"Environmental sciences, earth sciences",Federal,31584,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,02,Expenditures by S&E field,"Environmental sciences, earth sciences",Total,31584,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,02,Expenditures by S&E field,"Environmental sciences, oceanography",Federal,13912,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,02,Expenditures by S&E field,"Environmental sciences, oceanography",Total,13912,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,02,Expenditures by S&E field,"Environmental sciences, other",Federal,21535,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,02,Expenditures by S&E field,"Environmental sciences, other",Total,21535,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,02,Expenditures by S&E field,"Physical sciences, all",Federal,85968,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,02,Expenditures by S&E field,"Physical sciences, all",Total,85968,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,02,Expenditures by S&E field,"Physical sciences, astronomy",Federal,51239,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,02,Expenditures by S&E field,"Physical sciences, astronomy",Total,51239,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,02,Expenditures by S&E field,"Physical sciences, chemistry",Federal,20646,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,02,Expenditures by S&E field,"Physical sciences, chemistry",Total,20646,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,02,Expenditures by S&E field,"Physical sciences, physics",Federal,14083,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,02,Expenditures by S&E field,"Physical sciences, physics",Total,14083,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,All,Federal,61297,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,All,Total,61297,
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Computer sciences, all",Federal,23818,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Computer sciences, all",Total,23818,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Engineering, aeronautical and astronautical",Federal,7781,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Engineering, aeronautical and astronautical",Total,7781,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Engineering, all",Federal,25398,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Engineering, all",Total,25398,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Engineering, chemical",Federal,0,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Engineering, chemical",Total,0,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Engineering, civil",Federal,0,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Engineering, civil",Total,0,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Engineering, electrical",Federal,4498,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Engineering, electrical",Total,4498,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Engineering, mechanical",Federal,10940,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Engineering, mechanical",Total,10940,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Engineering, other",Federal,2179,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Engineering, other",Total,2179,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Environmental sciences, all",Federal,5380,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Environmental sciences, all",Total,5380,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Environmental sciences, atmospheric sciences",Federal,2374,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Environmental sciences, atmospheric sciences",Total,2374,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Environmental sciences, earth sciences",Federal,1311,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Environmental sciences, earth sciences",Total,1311,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Environmental sciences, oceanography",Federal,0,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Environmental sciences, oceanography",Total,0,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Environmental sciences, other",Federal,1695,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Environmental sciences, other",Total,1695,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Life sciences, agricultural sciences",Federal,0,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Life sciences, agricultural sciences",Total,0,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Life sciences, all",Federal,0,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Life sciences, all",Total,0,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Life sciences, biological sciences",Federal,0,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Life sciences, biological sciences",Total,0,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Life sciences, medical sciences",Federal,0,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Life sciences, medical sciences",Total,0,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Life sciences, other",Federal,0,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Life sciences, other",Total,0,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Mathematical sciences, all",Federal,0,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Mathematical sciences, all",Total,0,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Other sciences, all",Federal,0,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Other sciences, all",Total,0,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Physical sciences, all",Federal,6701,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Physical sciences, all",Total,6701,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Physical sciences, astronomy",Federal,1207,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Physical sciences, astronomy",Total,1207,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Physical sciences, chemistry",Federal,1199,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Physical sciences, chemistry",Total,1199,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Physical sciences, other",Federal,0,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Physical sciences, other",Total,0,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Physical sciences, physics",Federal,4295,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Physical sciences, physics",Total,4295,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Psychology, all",Federal,0,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Psychology, all",Total,0,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Social sciences, all",Federal,0,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Social sciences, all",Total,0,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Social sciences, economics",Federal,0,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Social sciences, economics",Total,0,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Social sciences, other",Federal,0,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Social sciences, other",Total,0,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Social sciences, political science",Federal,0,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Social sciences, political science",Total,0,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Social sciences, sociology",Federal,0,e
+900024,000000,1993,3,1,Jet Propulsion Laboratory,Pasadena,CA,91109,03,Equipment expenditures by S&E field,"Social sciences, sociology",Total,0,e
+900026,000000,1993,3,1,Natl Optical Astro Obs,Tucson,AZ,85726,01,Source,Federal government,,40135,
+900026,000000,1993,3,1,Natl Optical Astro Obs,Tucson,AZ,85726,01,Source,Total,,40135,
+900026,000000,1993,3,1,Natl Optical Astro Obs,Tucson,AZ,85726,02,Expenditures by S&E field,All,Federal,40135,
+900026,000000,1993,3,1,Natl Optical Astro Obs,Tucson,AZ,85726,02,Expenditures by S&E field,All,Total,40135,
+900026,000000,1993,3,1,Natl Optical Astro Obs,Tucson,AZ,85726,02,Expenditures by S&E field,"Physical sciences, all",Federal,40135,
+900026,000000,1993,3,1,Natl Optical Astro Obs,Tucson,AZ,85726,02,Expenditures by S&E field,"Physical sciences, all",Total,40135,
+900026,000000,1993,3,1,Natl Optical Astro Obs,Tucson,AZ,85726,02,Expenditures by S&E field,"Physical sciences, astronomy",Federal,40135,
+900026,000000,1993,3,1,Natl Optical Astro Obs,Tucson,AZ,85726,02,Expenditures by S&E field,"Physical sciences, astronomy",Total,40135,
+900026,000000,1993,3,1,Natl Optical Astro Obs,Tucson,AZ,85726,03,Equipment expenditures by S&E field,All,Federal,13836,
+900026,000000,1993,3,1,Natl Optical Astro Obs,Tucson,AZ,85726,03,Equipment expenditures by S&E field,All,Total,13836,
+900026,000000,1993,3,1,Natl Optical Astro Obs,Tucson,AZ,85726,03,Equipment expenditures by S&E field,"Physical sciences, all",Federal,13836,
+900026,000000,1993,3,1,Natl Optical Astro Obs,Tucson,AZ,85726,03,Equipment expenditures by S&E field,"Physical sciences, all",Total,13836,
+900026,000000,1993,3,1,Natl Optical Astro Obs,Tucson,AZ,85726,03,Equipment expenditures by S&E field,"Physical sciences, astronomy",Federal,13836,
+900026,000000,1993,3,1,Natl Optical Astro Obs,Tucson,AZ,85726,03,Equipment expenditures by S&E field,"Physical sciences, astronomy",Total,13836,
+900027,000000,1993,3,1,Natl Ctr Atmospheric Res,Boulder,CO,80307,01,Source,All other sources,,6587,
+900027,000000,1993,3,1,Natl Ctr Atmospheric Res,Boulder,CO,80307,01,Source,Federal government,,92040,
+900027,000000,1993,3,1,Natl Ctr Atmospheric Res,Boulder,CO,80307,01,Source,Total,,98627,
+900027,000000,1993,3,1,Natl Ctr Atmospheric Res,Boulder,CO,80307,02,Expenditures by S&E field,All,Federal,92040,
+900027,000000,1993,3,1,Natl Ctr Atmospheric Res,Boulder,CO,80307,02,Expenditures by S&E field,All,Total,98627,
+900027,000000,1993,3,1,Natl Ctr Atmospheric Res,Boulder,CO,80307,02,Expenditures by S&E field,"Environmental sciences, all",Federal,92040,
+900027,000000,1993,3,1,Natl Ctr Atmospheric Res,Boulder,CO,80307,02,Expenditures by S&E field,"Environmental sciences, all",Total,98627,
+900027,000000,1993,3,1,Natl Ctr Atmospheric Res,Boulder,CO,80307,02,Expenditures by S&E field,"Environmental sciences, atmospheric sciences",Federal,92040,
+900027,000000,1993,3,1,Natl Ctr Atmospheric Res,Boulder,CO,80307,02,Expenditures by S&E field,"Environmental sciences, atmospheric sciences",Total,98627,
+900027,000000,1993,3,1,Natl Ctr Atmospheric Res,Boulder,CO,80307,03,Equipment expenditures by S&E field,All,Federal,3859,
+900027,000000,1993,3,1,Natl Ctr Atmospheric Res,Boulder,CO,80307,03,Equipment expenditures by S&E field,All,Total,5145,
+900027,000000,1993,3,1,Natl Ctr Atmospheric Res,Boulder,CO,80307,03,Equipment expenditures by S&E field,"Environmental sciences, all",Federal,3859,
+900027,000000,1993,3,1,Natl Ctr Atmospheric Res,Boulder,CO,80307,03,Equipment expenditures by S&E field,"Environmental sciences, all",Total,5145,
+900027,000000,1993,3,1,Natl Ctr Atmospheric Res,Boulder,CO,80307,03,Equipment expenditures by S&E field,"Environmental sciences, atmospheric sciences",Federal,3859,
+900027,000000,1993,3,1,Natl Ctr Atmospheric Res,Boulder,CO,80307,03,Equipment expenditures by S&E field,"Environmental sciences, atmospheric sciences",Total,5145,
+900028,000000,1993,3,1,Natl Radio Astronomy Obs,Charlottesville,VA,22903,01,Source,All other sources,,609,
+900028,000000,1993,3,1,Natl Radio Astronomy Obs,Charlottesville,VA,22903,01,Source,Federal government,,27803,
+900028,000000,1993,3,1,Natl Radio Astronomy Obs,Charlottesville,VA,22903,01,Source,Total,,28412,
+900028,000000,1993,3,1,Natl Radio Astronomy Obs,Charlottesville,VA,22903,02,Expenditures by S&E field,All,Federal,27803,
+900028,000000,1993,3,1,Natl Radio Astronomy Obs,Charlottesville,VA,22903,02,Expenditures by S&E field,All,Total,28412,
+900028,000000,1993,3,1,Natl Radio Astronomy Obs,Charlottesville,VA,22903,02,Expenditures by S&E field,"Physical sciences, all",Federal,27803,
+900028,000000,1993,3,1,Natl Radio Astronomy Obs,Charlottesville,VA,22903,02,Expenditures by S&E field,"Physical sciences, all",Total,28412,
+900028,000000,1993,3,1,Natl Radio Astronomy Obs,Charlottesville,VA,22903,02,Expenditures by S&E field,"Physical sciences, astronomy",Federal,27803,
+900028,000000,1993,3,1,Natl Radio Astronomy Obs,Charlottesville,VA,22903,02,Expenditures by S&E field,"Physical sciences, astronomy",Total,28412,
+900028,000000,1993,3,1,Natl Radio Astronomy Obs,Charlottesville,VA,22903,03,Equipment expenditures by S&E field,All,Federal,2320,
+900028,000000,1993,3,1,Natl Radio Astronomy Obs,Charlottesville,VA,22903,03,Equipment expenditures by S&E field,All,Total,2320,
+900028,000000,1993,3,1,Natl Radio Astronomy Obs,Charlottesville,VA,22903,03,Equipment expenditures by S&E field,"Physical sciences, all",Federal,2320,
+900028,000000,1993,3,1,Natl Radio Astronomy Obs,Charlottesville,VA,22903,03,Equipment expenditures by S&E field,"Physical sciences, all",Total,2320,
+900028,000000,1993,3,1,Natl Radio Astronomy Obs,Charlottesville,VA,22903,03,Equipment expenditures by S&E field,"Physical sciences, astronomy",Federal,2320,
+900028,000000,1993,3,1,Natl Radio Astronomy Obs,Charlottesville,VA,22903,03,Equipment expenditures by S&E field,"Physical sciences, astronomy",Total,2320,
+900064,000000,1993,3,1,Fermi Natl Accel Lab,Batavia,IL,60510,01,Source,Federal government,,200698,
+900064,000000,1993,3,1,Fermi Natl Accel Lab,Batavia,IL,60510,01,Source,Total,,200698,
+900064,000000,1993,3,1,Fermi Natl Accel Lab,Batavia,IL,60510,02,Expenditures by S&E field,All,Federal,200698,
+900064,000000,1993,3,1,Fermi Natl Accel Lab,Batavia,IL,60510,02,Expenditures by S&E field,All,Total,200698,
+900064,000000,1993,3,1,Fermi Natl Accel Lab,Batavia,IL,60510,02,Expenditures by S&E field,"Physical sciences, all",Federal,200698,
+900064,000000,1993,3,1,Fermi Natl Accel Lab,Batavia,IL,60510,02,Expenditures by S&E field,"Physical sciences, all",Total,200698,
+900064,000000,1993,3,1,Fermi Natl Accel Lab,Batavia,IL,60510,02,Expenditures by S&E field,"Physical sciences, physics",Federal,200698,
+900064,000000,1993,3,1,Fermi Natl Accel Lab,Batavia,IL,60510,02,Expenditures by S&E field,"Physical sciences, physics",Total,200698,
+900064,000000,1993,3,1,Fermi Natl Accel Lab,Batavia,IL,60510,03,Equipment expenditures by S&E field,All,Federal,31211,
+900064,000000,1993,3,1,Fermi Natl Accel Lab,Batavia,IL,60510,03,Equipment expenditures by S&E field,All,Total,31211,
+900064,000000,1993,3,1,Fermi Natl Accel Lab,Batavia,IL,60510,03,Equipment expenditures by S&E field,"Physical sciences, all",Federal,31211,
+900064,000000,1993,3,1,Fermi Natl Accel Lab,Batavia,IL,60510,03,Equipment expenditures by S&E field,"Physical sciences, all",Total,31211,
+900064,000000,1993,3,1,Fermi Natl Accel Lab,Batavia,IL,60510,03,Equipment expenditures by S&E field,"Physical sciences, physics",Federal,31211,
+900064,000000,1993,3,1,Fermi Natl Accel Lab,Batavia,IL,60510,03,Equipment expenditures by S&E field,"Physical sciences, physics",Total,31211,
+900067,000000,1993,3,1,Software Engineering Inst,Pittsburgh,PA,15213,01,Source,Federal government,,35149,
+900067,000000,1993,3,1,Software Engineering Inst,Pittsburgh,PA,15213,01,Source,Total,,35149,
+900067,000000,1993,3,1,Software Engineering Inst,Pittsburgh,PA,15213,02,Expenditures by S&E field,All,Federal,35149,
+900067,000000,1993,3,1,Software Engineering Inst,Pittsburgh,PA,15213,02,Expenditures by S&E field,All,Total,35149,
+900067,000000,1993,3,1,Software Engineering Inst,Pittsburgh,PA,15213,02,Expenditures by S&E field,"Computer sciences, all",Federal,35149,
+900067,000000,1993,3,1,Software Engineering Inst,Pittsburgh,PA,15213,02,Expenditures by S&E field,"Computer sciences, all",Total,35149,
+900067,000000,1993,3,1,Software Engineering Inst,Pittsburgh,PA,15213,03,Equipment expenditures by S&E field,All,Federal,772,
+900067,000000,1993,3,1,Software Engineering Inst,Pittsburgh,PA,15213,03,Equipment expenditures by S&E field,All,Total,772,
+900067,000000,1993,3,1,Software Engineering Inst,Pittsburgh,PA,15213,03,Equipment expenditures by S&E field,"Computer sciences, all",Federal,772,
+900067,000000,1993,3,1,Software Engineering Inst,Pittsburgh,PA,15213,03,Equipment expenditures by S&E field,"Computer sciences, all",Total,772,
+900071,000000,1993,3,1,Continuous Elec Beam Aclr,Newport News,VA,23606,01,Source,Federal government,,34155,
+900071,000000,1993,3,1,Continuous Elec Beam Aclr,Newport News,VA,23606,01,Source,State and local government,,769,
+900071,000000,1993,3,1,Continuous Elec Beam Aclr,Newport News,VA,23606,01,Source,Total,,34924,
+900071,000000,1993,3,1,Continuous Elec Beam Aclr,Newport News,VA,23606,02,Expenditures by S&E field,All,Federal,34155,
+900071,000000,1993,3,1,Continuous Elec Beam Aclr,Newport News,VA,23606,02,Expenditures by S&E field,All,Total,34924,
+900071,000000,1993,3,1,Continuous Elec Beam Aclr,Newport News,VA,23606,02,Expenditures by S&E field,"Computer sciences, all",Federal,587,
+900071,000000,1993,3,1,Continuous Elec Beam Aclr,Newport News,VA,23606,02,Expenditures by S&E field,"Computer sciences, all",Total,587,
+900071,000000,1993,3,1,Continuous Elec Beam Aclr,Newport News,VA,23606,02,Expenditures by S&E field,"Physical sciences, all",Federal,33568,
+900071,000000,1993,3,1,Continuous Elec Beam Aclr,Newport News,VA,23606,02,Expenditures by S&E field,"Physical sciences, all",Total,34337,
+900071,000000,1993,3,1,Continuous Elec Beam Aclr,Newport News,VA,23606,02,Expenditures by S&E field,"Physical sciences, physics",Federal,33568,
+900071,000000,1993,3,1,Continuous Elec Beam Aclr,Newport News,VA,23606,02,Expenditures by S&E field,"Physical sciences, physics",Total,34337,
+900071,000000,1993,3,1,Continuous Elec Beam Aclr,Newport News,VA,23606,03,Equipment expenditures by S&E field,All,Federal,5890,
+900071,000000,1993,3,1,Continuous Elec Beam Aclr,Newport News,VA,23606,03,Equipment expenditures by S&E field,All,Total,5890,
+900071,000000,1993,3,1,Continuous Elec Beam Aclr,Newport News,VA,23606,03,Equipment expenditures by S&E field,"Physical sciences, all",Federal,5890,
+900071,000000,1993,3,1,Continuous Elec Beam Aclr,Newport News,VA,23606,03,Equipment expenditures by S&E field,"Physical sciences, all",Total,5890,
+900071,000000,1993,3,1,Continuous Elec Beam Aclr,Newport News,VA,23606,03,Equipment expenditures by S&E field,"Physical sciences, physics",Federal,5890,
+900071,000000,1993,3,1,Continuous Elec Beam Aclr,Newport News,VA,23606,03,Equipment expenditures by S&E field,"Physical sciences, physics",Total,5890,
+900074,000000,1993,3,1,Inst for Advanced Tech,Austin,TX,78712,01,Source,Federal government,,4583,
+900074,000000,1993,3,1,Inst for Advanced Tech,Austin,TX,78712,01,Source,"Institution funds, total",,853,
+900074,000000,1993,3,1,Inst for Advanced Tech,Austin,TX,78712,01,Source,Total,,5436,
+900074,000000,1993,3,1,Inst for Advanced Tech,Austin,TX,78712,02,Expenditures by S&E field,All,Federal,4583,
+900074,000000,1993,3,1,Inst for Advanced Tech,Austin,TX,78712,02,Expenditures by S&E field,All,Total,5436,
+900074,000000,1993,3,1,Inst for Advanced Tech,Austin,TX,78712,02,Expenditures by S&E field,"Engineering, all",Federal,3666,
+900074,000000,1993,3,1,Inst for Advanced Tech,Austin,TX,78712,02,Expenditures by S&E field,"Engineering, all",Total,4350,
+900074,000000,1993,3,1,Inst for Advanced Tech,Austin,TX,78712,02,Expenditures by S&E field,"Engineering, electrical",Federal,1604,
+900074,000000,1993,3,1,Inst for Advanced Tech,Austin,TX,78712,02,Expenditures by S&E field,"Engineering, electrical",Total,1903,
+900074,000000,1993,3,1,Inst for Advanced Tech,Austin,TX,78712,02,Expenditures by S&E field,"Engineering, mechanical",Federal,1604,
+900074,000000,1993,3,1,Inst for Advanced Tech,Austin,TX,78712,02,Expenditures by S&E field,"Engineering, mechanical",Total,1903,
+900074,000000,1993,3,1,Inst for Advanced Tech,Austin,TX,78712,02,Expenditures by S&E field,"Engineering, metallurgical and materials",Federal,458,
+900074,000000,1993,3,1,Inst for Advanced Tech,Austin,TX,78712,02,Expenditures by S&E field,"Engineering, metallurgical and materials",Total,544,
+900074,000000,1993,3,1,Inst for Advanced Tech,Austin,TX,78712,02,Expenditures by S&E field,"Physical sciences, all",Federal,917,
+900074,000000,1993,3,1,Inst for Advanced Tech,Austin,TX,78712,02,Expenditures by S&E field,"Physical sciences, all",Total,1086,
+900074,000000,1993,3,1,Inst for Advanced Tech,Austin,TX,78712,02,Expenditures by S&E field,"Physical sciences, physics",Federal,917,
+900074,000000,1993,3,1,Inst for Advanced Tech,Austin,TX,78712,02,Expenditures by S&E field,"Physical sciences, physics",Total,1086,
+900074,000000,1993,3,1,Inst for Advanced Tech,Austin,TX,78712,03,Equipment expenditures by S&E field,All,Federal,930,
+900074,000000,1993,3,1,Inst for Advanced Tech,Austin,TX,78712,03,Equipment expenditures by S&E field,All,Total,982,
+900074,000000,1993,3,1,Inst for Advanced Tech,Austin,TX,78712,03,Equipment expenditures by S&E field,"Engineering, all",Federal,743,
+900074,000000,1993,3,1,Inst for Advanced Tech,Austin,TX,78712,03,Equipment expenditures by S&E field,"Engineering, all",Total,786,
+900074,000000,1993,3,1,Inst for Advanced Tech,Austin,TX,78712,03,Equipment expenditures by S&E field,"Engineering, electrical",Federal,325,
+900074,000000,1993,3,1,Inst for Advanced Tech,Austin,TX,78712,03,Equipment expenditures by S&E field,"Engineering, electrical",Total,344,
+900074,000000,1993,3,1,Inst for Advanced Tech,Austin,TX,78712,03,Equipment expenditures by S&E field,"Engineering, mechanical",Federal,325,
+900074,000000,1993,3,1,Inst for Advanced Tech,Austin,TX,78712,03,Equipment expenditures by S&E field,"Engineering, mechanical",Total,344,
+900074,000000,1993,3,1,Inst for Advanced Tech,Austin,TX,78712,03,Equipment expenditures by S&E field,"Engineering, metallurgical and materials",Federal,93,
+900074,000000,1993,3,1,Inst for Advanced Tech,Austin,TX,78712,03,Equipment expenditures by S&E field,"Engineering, metallurgical and materials",Total,98,
+900074,000000,1993,3,1,Inst for Advanced Tech,Austin,TX,78712,03,Equipment expenditures by S&E field,"Physical sciences, all",Federal,187,
+900074,000000,1993,3,1,Inst for Advanced Tech,Austin,TX,78712,03,Equipment expenditures by S&E field,"Physical sciences, all",Total,196,
+900074,000000,1993,3,1,Inst for Advanced Tech,Austin,TX,78712,03,Equipment expenditures by S&E field,"Physical sciences, physics",Federal,187,
+900074,000000,1993,3,1,Inst for Advanced Tech,Austin,TX,78712,03,Equipment expenditures by S&E field,"Physical sciences, physics",Total,196,
