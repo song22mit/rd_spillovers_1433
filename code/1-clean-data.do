@@ -9,6 +9,7 @@ set obs 1
 gen x=.
 save data/intermediate/ffrdcrd_all, replace
 
+//read in and append FFRDC data
 forvalues yr = 1979(1)2019 {
     display `yr'
     import delimited data/raw/FFRDC/ffrdcrd`yr'.csv, clear
@@ -110,6 +111,14 @@ save data/intermediate/ffrdcrd_all, replace
 
 
 //---------------------------summarize relevant ffrdc data------------------------
+//associate names and ffrdc type
+use data/intermediate/ffrdcrd_all, clear
+keep inst_name_long ffrdctype year
+duplicates drop inst_name_long ffrdctype, force
+sort inst_name_long ffrdctype //Brookhaven changed type in 1998, Lawrence Livermore in 2016
+keep if ffrdctype == 1
+
+
 //filter only total funding and federal funding
 use data/intermediate/ffrdcrd_all, clear
 tab question year
@@ -118,14 +127,14 @@ tab row year
 keep if row == "Federal government" | row == "Total"
 replace row = "Federal" if row == "Federal government" 
 drop questionnaire_no status question
-reshape wide data, i(year inst_name_long COUNTY) j(row) string
+reshape wide data, i(year ffrdctype inst_name_long COUNTY) j(row) string
 
 //calculate total funding by county by year and number of ffrdcs by county by year
 gen ffrdc_count = 1
 collapse (sum) dataTotal dataFederal ffrdc_count, by(COUNTY year)
-fillin COUNTY year
-recode data* ffrdc_count (. = 0)
-drop _fillin
+fillin COUNTY year //TO DO: FIX THIS BECAUSE NONACADEMIC SHOULD NOT BE IMPUTED AS 0 FOR <2000
+//recode data* ffrdc_count (. = 0)
+//drop _fillin
 save data/intermediate/ffrdcrd_county_summary, replace
 
 //-------------read in and standardize QECW data---------
@@ -156,15 +165,13 @@ forvalues yr = 1975(1)2019 {
 	merge m:1 COUNTY using data/intermediate/ffrdcrd_county_list
 	keep if _merge == 3
 	keep if agglvl_title == "County, Total Covered"
-	drop oty*
-	
+	drop oty* //overtime stats, not relevant and not available
+	drop lq* //location quotients: only relevant for per-industry stats
 	
 	if inrange(`yr', 1990, 2000) {
 		gen disclosure_code_string = string(disclosure_code)
-		gen lq_disclosure_code_string = string(lq_disclosure_code)
-		drop disclosure_code lq_disclosure_code
+		drop disclosure_code
 		ren disclosure_code_string disclosure_code
-		ren lq_disclosure_code_string lq_disclosure_code
 	}
 	append using data/intermediate/qcew_relevantcounties_allind
 	save data/intermediate/qcew_relevantcounties_allind, replace
@@ -172,7 +179,7 @@ forvalues yr = 1975(1)2019 {
 
 //TO DO: investigate disclosure code (missing data)
 //NOTE: disclosure_code = N means missing data
-recode annual* avg_annual_pay lq_a* lq_t* (0 = .) if disclosure_code == "N"
+recode annual* avg_annual_pay (0 = .) if disclosure_code == "N"
 
 drop _merge
 //drop seed observation
