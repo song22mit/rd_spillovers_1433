@@ -132,12 +132,12 @@ reshape wide data, i(year ffrdctype inst_name_long COUNTY) j(row) string
 //calculate total funding by county by year and number of ffrdcs by county by year
 gen ffrdc_count = 1
 collapse (sum) dataTotal dataFederal ffrdc_count, by(COUNTY year)
-fillin COUNTY year //TO DO: FIX THIS BECAUSE NONACADEMIC SHOULD NOT BE IMPUTED AS 0 FOR <2000
+//fillin COUNTY year //TO DO: FIX THIS BECAUSE NONACADEMIC SHOULD NOT BE IMPUTED AS 0 FOR <2000
 //recode data* ffrdc_count (. = 0)
 //drop _fillin
 save data/intermediate/ffrdcrd_county_summary, replace
 
-//-------------read in and standardize QECW data---------
+//-------------read in and standardize QECW all industry data---------
 //identify relevant counties
 use data/intermediate/ffrdcrd_county_summary, clear
 keep COUNTY
@@ -148,7 +148,7 @@ save data/intermediate/ffrdcrd_county_list, replace
 clear
 set obs 1
 gen x=.
-save data/intermediate/qcew_relevantcounties_allind, replace
+save data/intermediate/qcew_allcounties_allind, replace
 
 //read in and append QCEW data
 forvalues yr = 1975(1)2019 {
@@ -160,10 +160,8 @@ forvalues yr = 1975(1)2019 {
 		import delimited "data/raw/QCEW/`yr'.annual 10 10 Total, all industries.csv", clear
 	}
 	
-	//keep only counties with a FFRDC at some point in 1979-2019 and only totals (not by ownership)
+	//keep only totals (not by ownership)
 	rename area_fips COUNTY
-	merge m:1 COUNTY using data/intermediate/ffrdcrd_county_list
-	keep if _merge == 3
 	keep if agglvl_title == "County, Total Covered"
 	drop oty* //overtime stats, not relevant and not available
 	drop lq* //location quotients: only relevant for per-industry stats
@@ -173,22 +171,45 @@ forvalues yr = 1975(1)2019 {
 		drop disclosure_code
 		ren disclosure_code_string disclosure_code
 	}
-	append using data/intermediate/qcew_relevantcounties_allind
-	save data/intermediate/qcew_relevantcounties_allind, replace
+	append using data/intermediate/qcew_allcounties_allind
+	save data/intermediate/qcew_allcounties_allind, replace
 }
 
 //TO DO: investigate disclosure code (missing data)
 //NOTE: disclosure_code = N means missing data
 recode annual* avg_annual_pay (0 = .) if disclosure_code == "N"
 
-drop _merge
 //drop seed observation
 drop if year == .
 drop x
-save data/intermediate/qcew_relevantcounties_allind, replace
+save data/intermediate/qcew_allcounties_allind, replace
 
 
 // --------------- merge qcew with ffrdc data -------------------------
-use data/intermediate/qcew_relevantcounties_allind, clear
+use data/intermediate/qcew_allcounties_allind, clear
 merge 1:1 year COUNTY using data/intermediate/ffrdcrd_county_summary
-save data/intermediate/merged_relevantcounties_allind, replace
+drop _merge
+save data/intermediate/merged_allcounties_allind, replace
+
+//--------------crosswalk to and summarize by MSA------------------------
+import delimited data/raw/qcew-county-msa-csa-crosswalk-csv.csv, clear
+gen COUNTY = string(countycode, "%05.0f")
+save data/intermediate/county-to-msa, replace
+
+use data/intermediate/merged_allcounties_allind, clear
+merge m:1 COUNTY using data/intermediate/county-to-msa
+drop if _merge == 2
+
+//investigate if all FFRDCs are in MSAs
+list if ffrdc_count != . & msacode == "" //there is one FFRDC in Barnwell County, SC that is not in a MSA. TO DO: 
+drop if msacode == "" //omit that FFRDC
+
+//summarize by MSA
+collapse (sum) dataTotal dataFederal ffrdc_count annual_avg_estabs_count annual_avg_emplvl total_annual_wages, by(msacode msatitle year)
+gen avg_annual_pay = total_annual_wages/annual_avg_emplvl
+save data/intermediate/merged_allMSAs_allind, replace
+
+drop if year < 2001 //this has to be done because missing non-academic ffrdcs are now counted as 0 ffrdcs that year
+
+save data/intermediate/merged_allMSAs_allind_post01, replace
+
