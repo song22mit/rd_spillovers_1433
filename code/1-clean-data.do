@@ -2,6 +2,16 @@
 
 cd C:\Users\ecsxn\Documents\repo\rd_spillovers_1433
 
+//read in inflation adjustment
+import excel data/raw/SeriesReport-20210412000633_ad0ea3.xlsx, cellrange(A12) firstrow clear
+ren Year year
+drop if year == .
+egen dollarvalue = rowtotal(Jan-Dec)
+replace dollarvalue = dollarvalue / 12
+keep year dollarvalue
+replace dollarvalue = dollarvalue / 255.6574
+save data/intermediate/inflation_adjustment, replace
+
 //-------------read in and standardize FFRDC data---------
 //seed the append loop
 clear
@@ -112,12 +122,12 @@ save data/intermediate/ffrdcrd_all, replace
 
 //---------------------------summarize relevant ffrdc data------------------------
 //associate names and ffrdc type
-use data/intermediate/ffrdcrd_all, clear
+/*use data/intermediate/ffrdcrd_all, clear
 keep inst_name_long ffrdctype year
 duplicates drop inst_name_long ffrdctype, force
 sort inst_name_long ffrdctype //Brookhaven changed type in 1998, Lawrence Livermore in 2016
 keep if ffrdctype == 1
-
+*/
 
 //filter only total funding and federal funding
 use data/intermediate/ffrdcrd_all, clear
@@ -175,7 +185,6 @@ forvalues yr = 1975(1)2019 {
 	save data/intermediate/qcew_allcounties_allind, replace
 }
 
-//TO DO: investigate disclosure code (missing data)
 //NOTE: disclosure_code = N means missing data
 recode annual* avg_annual_pay (0 = .) if disclosure_code == "N"
 
@@ -185,10 +194,17 @@ drop x
 save data/intermediate/qcew_allcounties_allind, replace
 
 
-// --------------- merge qcew with ffrdc data -------------------------
+// --------------- merge qcew with ffrdc data, adjust for inflation-------------------------
 use data/intermediate/qcew_allcounties_allind, clear
 merge 1:1 year COUNTY using data/intermediate/ffrdcrd_county_summary
 drop _merge
+
+merge m:1 year using data/intermediate/inflation_adjustment
+drop _merge
+foreach dollar_var of varlist total_annual_wages-dataFederal {
+    replace `dollar_var' = `dollar_var'/dollarvalue
+}
+
 save data/intermediate/merged_allcounties_allind, replace
 
 //--------------crosswalk to and summarize by MSA------------------------
@@ -205,11 +221,21 @@ list if ffrdc_count != . & msacode == "" //there is one FFRDC in Barnwell County
 drop if msacode == "" //omit that FFRDC
 
 //summarize by MSA
-collapse (sum) dataTotal dataFederal ffrdc_count annual_avg_estabs_count annual_avg_emplvl total_annual_wages, by(msacode msatitle year)
+collapse (sum) dataTotal dataFederal ffrdc_count annual_avg_estabs_count annual_avg_emplvl total_annual_wages, by(msacode msatitle msatype year)
 gen avg_annual_pay = total_annual_wages/annual_avg_emplvl
 save data/intermediate/merged_allMSAs_allind, replace
 
 drop if year < 2001 //this has to be done because missing non-academic ffrdcs are now counted as 0 ffrdcs that year
 
 save data/intermediate/merged_allMSAs_allind_post01, replace
+
+
+
+//look into only Metro, not Micro
+tab ffrdc msatype
+list msatitle year if msatype == "Micro" & ffrdc_count > 0 //Alamogordo, NM 2010+, Los Alamos, NM throughout 2001-2019 each with one ffrdc_count
+
+keep if msatype == "Metro"
+save data/intermediate/merged_MetroMSAs_allind_post01, replace
+
 

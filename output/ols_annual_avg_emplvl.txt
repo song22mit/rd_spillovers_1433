@@ -1,0 +1,15 @@
+	(1)	(2)	(3)	(4)
+VARIABLES	annual_avg_emplvl	annual_avg_emplvl	annual_avg_emplvl	annual_avg_emplvl
+				
+dataFederal	1.052***	0.134***	0.129***	0.123**
+	(0.0837)	(0.0297)	(0.0290)	(0.0480)
+Constant	0.116***	0.0211***	0.0164***	0.0164***
+	(0.00259)	(0.000179)	(0.00161)	(0.00160)
+				
+Observations	17,651	17,651	17,651	17,651
+R-squared	0.191	0.996	0.996	0.996
+MSA FE	No	Yes	Yes	Yes
+Year FE	No	No	Yes	Yes
+FFRDC count FE	No	No	No	Yes
+Robust standard errors in parentheses				
+*** p<0.01, ** p<0.05, * p<0.1				

@@ -1,0 +1,14 @@
+	(1)	(2)
+VARIABLES	Voted for winner	Election gap
+		
+voted_for_winner	-0.0216***	
+	(0.00704)	
+election_gap		0.201***
+		(0.0310)
+Constant	0.0551***	0.00288
+	(0.00593)	(0.00501)
+		
+Observations	7,220	7,220
+R-squared	0.001	0.010
+Robust standard errors in parentheses		
+*** p<0.01, ** p<0.05, * p<0.1		

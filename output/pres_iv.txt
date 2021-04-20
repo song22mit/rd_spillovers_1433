@@ -1,0 +1,13 @@
+	(1)	(2)	(3)	(4)
+VARIABLES	Voted for winner	Voted for winner	Election gap	Election gap
+				
+dataFederal	50.53***	-166.8	-6.408	64.83***
+	(16.37)	(102.6)	(4.781)	(12.39)
+Constant	44.22***	39.34***	46.63***	39.34***
+	(0.674)	(0.541)	(0.181)	(0.541)
+				
+Observations	7,220	7,220	7,220	7,220
+R-squared				0.748
+MSA FE	No	Yes	No	Yes
+Robust standard errors in parentheses				
+*** p<0.01, ** p<0.05, * p<0.1				

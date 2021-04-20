@@ -1,0 +1,15 @@
+	(1)	(2)	(3)	(4)
+VARIABLES	avg_annual_pay	avg_annual_pay	avg_annual_pay	avg_annual_pay
+				
+dataFederal	11.59***	2.075**	0.379	-0.926
+	(0.634)	(0.809)	(0.740)	(1.248)
+Constant	42.01***	39.28***	37.13***	37.12***
+	(0.0557)	(0.640)	(0.361)	(0.361)
+				
+Observations	17,651	17,651	17,651	17,651
+R-squared	0.085	0.915	0.941	0.941
+MSA FE	No	Yes	Yes	Yes
+Year FE	No	No	Yes	Yes
+FFRDC count FE	No	No	No	Yes
+Robust standard errors in parentheses				
+*** p<0.01, ** p<0.05, * p<0.1				

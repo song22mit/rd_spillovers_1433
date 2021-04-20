@@ -1,0 +1,22 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx2448\clbrdrt\brdrs\cellx4896\clbrdrt\brdrs\cellx6768
+\ql \cell\qc (1)\cell\qc (2)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2448\cellx4896\cellx6768
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx2448\clbrdrb\brdrs\cellx4896\clbrdrb\brdrs\cellx6768
+\ql VARIABLES\cell\qc Voted for winner\cell\qc Election gap\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2448\cellx4896\cellx6768
+\ql \cell\qc \cell\qc \cell\row
+\ql voted_for_winner\cell\qc -0.0216***\cell\qc \cell\row
+\ql \cell\qc (0.00704)\cell\qc \cell\row
+\ql election_gap\cell\qc \cell\qc 0.201***\cell\row
+\ql \cell\qc \cell\qc (0.0310)\cell\row
+\ql Constant\cell\qc 0.0551***\cell\qc 0.00288\cell\row
+\ql \cell\qc (0.00593)\cell\qc (0.00501)\cell\row
+\ql \cell\qc \cell\qc \cell\row
+\ql Observations\cell\qc 7,220\cell\qc 7,220\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx2448\clbrdrb\brdrs\cellx4896\clbrdrb\brdrs\cellx6768
+\ql R-squared\cell\qc 0.001\cell\qc 0.010\cell\row
+\pard\qc
+Robust standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}
