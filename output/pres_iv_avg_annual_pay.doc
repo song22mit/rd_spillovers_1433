@@ -1,0 +1,20 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx1872\clbrdrt\brdrs\cellx3312\clbrdrt\brdrs\cellx5040
+\ql \cell\qc (1)\cell\qc (2)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx3312\cellx5040
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx3312\clbrdrb\brdrs\cellx5040
+\ql VARIABLES\cell\qc No MSA FE\cell\qc With MSA FE\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx3312\cellx5040
+\ql \cell\qc \cell\qc \cell\row
+\ql dataFederal\cell\qc 37.73***\cell\qc 74.87***\cell\row
+\ql \cell\qc (6.220)\cell\qc (14.81)\cell\row
+\ql Constant\cell\qc 44.76***\cell\qc 39.34***\cell\row
+\ql \cell\qc (0.236)\cell\qc (0.541)\cell\row
+\ql \cell\qc \cell\qc \cell\row
+\ql Observations\cell\qc 7,220\cell\qc 7,220\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx3312\clbrdrb\brdrs\cellx5040
+\ql R-squared\cell\qc \cell\qc 0.681\cell\row
+\pard\qc
+Robust standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}

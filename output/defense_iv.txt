@@ -1,0 +1,12 @@
+	(1)	(2)
+VARIABLES	Average annual pay (thousands 2019$)	Average employment (millions)
+		
+dataFederal	5.102***	0.130***
+	(0.600)	(0.0380)
+Constant	39.34***	0.0639***
+	(0.541)	(0.000620)
+		
+Observations	7,220	7,220
+R-squared	0.938	0.996
+Robust standard errors in parentheses		
+*** p<0.01, ** p<0.05, * p<0.1		

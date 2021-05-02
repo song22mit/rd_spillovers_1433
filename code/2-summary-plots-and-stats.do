@@ -36,9 +36,27 @@ eststo: estpost summarize avg_annual_pay annual_avg_emplvl dataFederal if year >
 esttab using output/summarystats.csv, cells("mean(fmt(2)) sd(fmt(2)) min(fmt(2)) max(fmt(2))") label nodepvar replace
 
 //histograms
-hist avg_annual_pay if year >= 2001, title("Wages across all MSAs, 2001-2009")
-hist annual_avg_emplvl if year >= 2001, title("Employment across all MSAs, 2001-2009")
-hist dataFederal if year >= 2001 & ffrdc >0, title("FFRDC funding across MSAs with at least one FFRDC," "2001-2009")
+drop if year < 2001
+encode msacode, gen(msa_factor)
+
+reg avg_annual_pay i.msa_factor i.year, robust
+predict resid_avg_annual_pay, residuals
+reg annual_avg_emplvl i.msa_factor i.year, robust
+predict resid_annual_avg_emplvl, residuals
+reg dataFederal i.msa_factor i.year, robust
+predict resid_dataFederal, residuals
+reg dataFederal i.msa_factor i.year if ffrdc_count > 0, robust
+predict resid_dataFederal_hasffrdc, residuals
+
+label variable resid_avg_annual_pay "Avg annual pay of employed workers, resid. by year and MSA (thousands 2019$)"
+label variable resid_annual_avg_emplvl "Annual average of total employment, residualized by year and MSA (million)"
+label variable resid_dataFederal "Total federal FFRDC funding, residualized by year and MSA (millions 2019$)"
+label variable resid_dataFederal_hasffrdc "Total federal FFRDC funding, residualized by year and MSA (millions 2019$)"
+
+hist resid_avg_annual_pay, title("Residualized wages across all MSA-years, 2001-2019")
+hist resid_annual_avg_emplvl, title("Residualized employment across all MSA-years, 2001-2019")
+hist resid_dataFederal, title("Residualized FFRDC funding across all MSA-years," "2001-2019")
+hist resid_dataFederal_hasffrdc if ffrdc_count > 0, title("Residualized FFRDC funding across MSA-years" "with at least one FFRDC, 2001-2019")
 
 //split summary by year and by FFRDC presence
 estimates clear
@@ -46,6 +64,13 @@ keep if year == 2019 | year == 2010 | year == 2001
 //to do: fix labelling and make prettier
 by year has_ffrdc: eststo: estpost summarize avg_annual_pay annual_avg_emplvl dataFederal, listwise
 esttab using output/summarystats_by_year_ffrdc.csv, cells("mean(fmt(2)) sd(fmt(2))") label nodepvar replace
+
+
+
+
+
+
+
 
 
 use data/intermediate/merged_allMSAs_allind_post01, clear

@@ -1,0 +1,13 @@
+	(1)
+VARIABLES	With MSA FE
+	
+resid_defense_funding_instrument	2.12e-06***
+	(2.18e-07)
+Constant	0
+	(0.000506)
+	
+Observations	7,372
+R-squared	0.452
+F stat	94.83
+Robust standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	

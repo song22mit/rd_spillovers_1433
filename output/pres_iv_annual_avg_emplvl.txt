@@ -1,13 +1,12 @@
-	(1)	(2)	(3)	(4)
-VARIABLES	Voted for winner	Voted for winner	Election gap	Election gap
-				
-dataFederal	3.020***	-2.921	-0.491*	0.211**
-	(0.940)	(1.865)	(0.282)	(0.0863)
-Constant	0.177***	0.0639***	0.326***	0.0639***
-	(0.0386)	(0.000620)	(0.0110)	(0.000620)
-				
-Observations	7,220	7,220	7,220	7,220
-R-squared		0.930		0.996
-MSA FE	No	Yes	No	Yes
-Robust standard errors in parentheses				
-*** p<0.01, ** p<0.05, * p<0.1				
+	(1)	(2)
+VARIABLES	No MSA FE	With MSA FE
+		
+dataFederal	2.429***	0.369***
+	(0.391)	(0.0873)
+Constant	0.202***	0.0639***
+	(0.0150)	(0.000620)
+		
+Observations	7,220	7,220
+R-squared		0.996
+Robust standard errors in parentheses		
+*** p<0.01, ** p<0.05, * p<0.1		

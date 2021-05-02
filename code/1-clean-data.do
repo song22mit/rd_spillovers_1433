@@ -23,30 +23,11 @@ save data/intermediate/ffrdcrd_all, replace
 forvalues yr = 1979(1)2019 {
     display `yr'
     import delimited data/raw/FFRDC/ffrdcrd`yr'.csv, clear
-	display("questionnaire_no")
-	if (`yr' < 1997 | inrange(`yr',2002,2009)) {
-	    gen questionnaire_string = string(questionnaire_no, "%02.0f")
-		drop questionnaire_no
-		ren questionnaire_string questionnaire_no
-	}
-	display("inst_zip")
-	if `yr' < 2001 {
-	    gen zip_string = string(inst_zip, "%05.0f")
-		drop inst_zip
-		ren zip_string inst_zip
-	}
-	display("column")
-	if inrange(`yr',2002,2009) {
-	    gen column_string = string(column)
-		drop column
-		ren column_string column
-	}
-	display("status")
-	if (inrange(`yr',2004,2010) | `yr' >= 2017) {
-	    gen status_string = string(status)
-		drop status
-		ren status_string status
-	}
+
+	tostring(questionnaire_no), format(%02.0f) replace
+	tostring(inst_zip), format(%05.0f) replace
+	tostring(column status), replace
+	
 	append using data/intermediate/ffrdcrd_all
 	save data/intermediate/ffrdcrd_all, replace
 }
@@ -148,12 +129,6 @@ collapse (sum) dataTotal dataFederal ffrdc_count, by(COUNTY year)
 save data/intermediate/ffrdcrd_county_summary, replace
 
 //-------------read in and standardize QECW all industry data---------
-//identify relevant counties
-use data/intermediate/ffrdcrd_county_summary, clear
-keep COUNTY
-duplicates drop
-save data/intermediate/ffrdcrd_county_list, replace
-
 //seed the append loop
 clear
 set obs 1
@@ -172,21 +147,20 @@ forvalues yr = 1975(1)2019 {
 	
 	//keep only totals (not by ownership)
 	rename area_fips COUNTY
-	keep if agglvl_title == "County, Total Covered"
+	
 	drop oty* //overtime stats, not relevant and not available
 	drop lq* //location quotients: only relevant for per-industry stats
 	
-	if inrange(`yr', 1990, 2000) {
-		gen disclosure_code_string = string(disclosure_code)
-		drop disclosure_code
-		ren disclosure_code_string disclosure_code
-	}
+	tostring(disclosure_code), replace
+	
 	append using data/intermediate/qcew_allcounties_allind
 	save data/intermediate/qcew_allcounties_allind, replace
 }
 
 //NOTE: disclosure_code = N means missing data
-recode annual* avg_annual_pay (0 = .) if disclosure_code == "N"
+recode annual* avg_annual_pay total_annual_wages taxable (0 = .) if disclosure_code == "N"
+tab agglvl_title
+keep if agglvl_title == "County, Total Covered" //not using MSA data, using county data and crosswalking for consistent MSA definition since redraw post census
 
 //drop seed observation
 drop if year == .

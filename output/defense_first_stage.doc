@@ -1,0 +1,21 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx4752\clbrdrt\brdrs\cellx6480
+\ql \cell\qc (1)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx4752\cellx6480
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx4752\clbrdrb\brdrs\cellx6480
+\ql VARIABLES\cell\qc With MSA FE\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx4752\cellx6480
+\ql \cell\qc \cell\row
+\ql resid_defense_funding_instrument\cell\qc 2.12e-06***\cell\row
+\ql \cell\qc (2.18e-07)\cell\row
+\ql Constant\cell\qc 0\cell\row
+\ql \cell\qc (0.000517)\cell\row
+\ql \cell\qc \cell\row
+\ql Observations\cell\qc 7,220\cell\row
+\ql R-squared\cell\qc 0.452\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx4752\clbrdrb\brdrs\cellx6480
+\ql F stat\cell\qc 94.83\cell\row
+\pard\qc
+Robust standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}

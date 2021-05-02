@@ -1,0 +1,20 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx1872\clbrdrt\brdrs\cellx7200\clbrdrt\brdrs\cellx11520
+\ql \cell\qc (1)\cell\qc (2)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx7200\cellx11520
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx7200\clbrdrb\brdrs\cellx11520
+\ql VARIABLES\cell\qc Average annual pay (thousands 2019$)\cell\qc Average employment (millions)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx7200\cellx11520
+\ql \cell\qc \cell\qc \cell\row
+\ql dataFederal\cell\qc 5.102***\cell\qc 0.130***\cell\row
+\ql \cell\qc (0.600)\cell\qc (0.0380)\cell\row
+\ql Constant\cell\qc 39.34***\cell\qc 0.0639***\cell\row
+\ql \cell\qc (0.541)\cell\qc (0.000620)\cell\row
+\ql \cell\qc \cell\qc \cell\row
+\ql Observations\cell\qc 7,220\cell\qc 7,220\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx7200\clbrdrb\brdrs\cellx11520
+\ql R-squared\cell\qc 0.938\cell\qc 0.996\cell\row
+\pard\qc
+Robust standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}

@@ -1,0 +1,28 @@
+﻿NAICS,Description,Non-Tradable,Tradable
+11,Agriculture,0,1.36
+21,Mining,0,0.39
+22,Utilities,0.76,0.18
+23,Construction,6.86,0
+31,Manufacturing,0,2.17
+32,Manufacturing,0.81,2.86
+33,Manufacturing,1.16,6.86
+3M,Manufacturing,0,0.53
+42,Wholesale Trade,1.66,1.96
+44,Retail Trade,5.9,1.32
+45,Retail Trade,2.91,0.37
+4M,Retail Trade,0.62,0
+48,Trans./Warehouse,1.32,1.76
+49,Trans./Warehouse,0,1.27
+51,Information,1.04,2.08
+52,Finance and Insurance,1.64,3.47
+53,Real Estate and Rental,0.16,1.63
+54,"Prof., Sci., Tech. Srvs.",0.82,5.08
+55,Management,0,0.06
+56,Administrative Support,1.99,1.35
+61,Education,8.75,0.1
+62,Health Care/Social,10.9,0.25
+71,"Arts, Enter., Recreation",1.12,0.54
+72,Accommodation,4.52,1
+81,Other Services,3.76,0.95
+92,Public Administration,4.14,1.63
+,All Industries,60.82,39.18
