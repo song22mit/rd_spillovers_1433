@@ -8,8 +8,8 @@
 \ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
 \ql dataFederal\cell\qc 1.052***\cell\qc 0.134***\cell\qc 0.129***\cell\qc 0.123**\cell\row
 \ql \cell\qc (0.0837)\cell\qc (0.0297)\cell\qc (0.0290)\cell\qc (0.0480)\cell\row
-\ql Constant\cell\qc 0.116***\cell\qc 0.0211***\cell\qc 0.0164***\cell\qc 0.0164***\cell\row
-\ql \cell\qc (0.00259)\cell\qc (0.000179)\cell\qc (0.00161)\cell\qc (0.00160)\cell\row
+\ql Constant\cell\qc 115.9***\cell\qc 21.14***\cell\qc 16.40***\cell\qc 16.42***\cell\row
+\ql \cell\qc (2.585)\cell\qc (0.179)\cell\qc (1.607)\cell\qc (1.597)\cell\row
 \ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
 \ql Observations\cell\qc 17,651\cell\qc 17,651\cell\qc 17,651\cell\qc 17,651\cell\row
 \ql R-squared\cell\qc 0.191\cell\qc 0.996\cell\qc 0.996\cell\qc 0.996\cell\row

@@ -6,8 +6,8 @@
 \ql VARIABLES\cell\qc avg_annual_pay\cell\qc avg_annual_pay\cell\qc avg_annual_pay\cell\qc avg_annual_pay\cell\row
 \trowd\trgaph75\trleft-75\trqc\cellx2160\cellx4320\cellx6480\cellx8640\cellx10800
 \ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
-\ql dataFederal\cell\qc 11.59***\cell\qc 2.075**\cell\qc 0.379\cell\qc -0.926\cell\row
-\ql \cell\qc (0.634)\cell\qc (0.809)\cell\qc (0.740)\cell\qc (1.248)\cell\row
+\ql dataFederal\cell\qc 0.0116***\cell\qc 0.00207**\cell\qc 0.000379\cell\qc -0.000926\cell\row
+\ql \cell\qc (0.000634)\cell\qc (0.000809)\cell\qc (0.000740)\cell\qc (0.00125)\cell\row
 \ql Constant\cell\qc 42.01***\cell\qc 39.28***\cell\qc 37.13***\cell\qc 37.12***\cell\row
 \ql \cell\qc (0.0557)\cell\qc (0.640)\cell\qc (0.361)\cell\qc (0.361)\cell\row
 \ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\row

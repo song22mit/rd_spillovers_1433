@@ -1,10 +1,10 @@
 	(1)
 VARIABLES	With MSA FE
 	
-resid_defense_funding_instrument	2.12e-06***
-	(2.18e-07)
-Constant	0
-	(0.000517)
+resid_defense_funding_instrument	0.00212***
+	(0.000218)
+Constant	3.84e-08
+	(0.517)
 	
 Observations	7,220
 R-squared	0.452

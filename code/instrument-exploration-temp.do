@@ -45,6 +45,8 @@ merge m:1 COUNTY using data/intermediate/county-to-msa
 drop if _merge == 2
 keep if msatype == "Metro"
 
+
+
 collapse (sum) data, by(year msacode msatitle)
 
 
@@ -54,13 +56,19 @@ keep if _merge == 3
 replace data = data / dollarvalue
 drop _merge dollarvalue
 
+//export
+preserve
+ren data defense_funding_thousands
+save data/intermediate/defense_funding_thousands, replace
+restore
+
 //merge in total defense budget data (current USD)
 merge m:1 year using data/intermediate/total_us_military_spending
 keep if _merge == 3
 drop _merge
 
 //calculate budget ratios
-gen budget_ratio = data / total_military_spending
+gen budget_ratio = data * 1000 / total_military_spending
 
 //calculate average across 2016-2019
 drop total_military_spending data
@@ -132,9 +140,9 @@ drop _merge
 
 replace avg_annual_pay = avg_annual_pay/1000
 label variable avg_annual_pay "Average annual pay of employed workers (thousands 2019$)"
-replace annual_avg_emplvl = annual_avg_emplvl / 1000000 
-label variable annual_avg_emplvl "Annual average of total employment (million)"
-replace dataFederal = dataFederal / 1000000
+replace annual_avg_emplvl = annual_avg_emplvl / 1000
+label variable annual_avg_emplvl "Annual average of total employment (thousands)"
+replace dataFederal = dataFederal / 1000
 label variable dataFederal "Total federal FFRDC funding received (millions 2019$)"
 
 gen product_winner_gap = voted_for_winner * election_gap
@@ -172,7 +180,6 @@ outreg2 using output/pres_iv_annual_avg_emplvl.doc, append ctitle("With MSA FE")
 
 
 
-reg dataFederal election_gap i.election_year i.msa_factor
 
 
 
@@ -188,7 +195,22 @@ drop _merge
 
 gen defense_funding_instrument = avg_budget_ratio * total_military_spending
 
+//summary stats
+preserve
+collapse (sum) dataFederal (mean) total_military_spending, by(year)
+replace total_military_spending = total_military_spending/1000000000
+label variable dataFederal "FFRDC Funding"
+label variable total_military_spending "Military Spending"
+graph twoway (line total_military_spending year, yaxis(1) ytitle("Total US Military Spending (Billions Current $)", axis(1))) (line dataFederal year, yaxis(2) ytitle("Total federal FFRDC funding (millions 2019$)", axis(2))), title("Comovement of US Military Spending" "and federal FFRDC funding")
+restore
 
+//summary stats
+merge 1:1 year msacode msatitle using data/intermediate/defense_funding_thousands
+replace defense_funding_thousands = 0 if year >= 2016 & defense_funding_thousands == .
+gen defense_funding_millions = defense_funding_thousands / 1000
+twoway scatter dataFederal defense_funding_millions
+
+//regressions
 reg defense_funding_instrument i.msa_factor, robust
 predict resid_defense_funding_instrument, residuals
 

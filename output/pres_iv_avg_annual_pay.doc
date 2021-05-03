@@ -6,8 +6,8 @@
 \ql VARIABLES\cell\qc No MSA FE\cell\qc With MSA FE\cell\row
 \trowd\trgaph75\trleft-75\trqc\cellx1872\cellx3312\cellx5040
 \ql \cell\qc \cell\qc \cell\row
-\ql dataFederal\cell\qc 37.73***\cell\qc 74.87***\cell\row
-\ql \cell\qc (6.220)\cell\qc (14.81)\cell\row
+\ql dataFederal\cell\qc 0.0377***\cell\qc 0.0749***\cell\row
+\ql \cell\qc (0.00622)\cell\qc (0.0148)\cell\row
 \ql Constant\cell\qc 44.76***\cell\qc 39.34***\cell\row
 \ql \cell\qc (0.236)\cell\qc (0.541)\cell\row
 \ql \cell\qc \cell\qc \cell\row

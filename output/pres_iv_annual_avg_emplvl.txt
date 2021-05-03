@@ -3,8 +3,8 @@ VARIABLES	No MSA FE	With MSA FE
 		
 dataFederal	2.429***	0.369***
 	(0.391)	(0.0873)
-Constant	0.202***	0.0639***
-	(0.0150)	(0.000620)
+Constant	202.2***	63.94***
+	(14.98)	(0.620)
 		
 Observations	7,220	7,220
 R-squared		0.996

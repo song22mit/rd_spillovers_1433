@@ -4,9 +4,9 @@ use data/intermediate/merged_MetroMSAs_constructionretail_private_post01, clear
 
 replace avg_annual_pay = avg_annual_pay/1000
 label variable avg_annual_pay "Average annual pay of employed workers (thousands 2019$)"
-replace annual_avg_emplvl = annual_avg_emplvl / 1000000 
-label variable annual_avg_emplvl "Annual average of total employment (million)"
-replace dataFederal = dataFederal / 1000000
+replace annual_avg_emplvl = annual_avg_emplvl / 1000
+label variable annual_avg_emplvl "Annual average of total employment (thousands)"
+replace dataFederal = dataFederal / 1000
 label variable dataFederal "Total federal FFRDC funding received (millions 2019$)"
 
 preserve

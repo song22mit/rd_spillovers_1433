@@ -1,8 +1,8 @@
 	(1)	(2)
 VARIABLES	No MSA FE	With MSA FE
 		
-dataFederal	37.73***	74.87***
-	(6.220)	(14.81)
+dataFederal	0.0377***	0.0749***
+	(0.00622)	(0.0148)
 Constant	44.76***	39.34***
 	(0.236)	(0.541)
 		

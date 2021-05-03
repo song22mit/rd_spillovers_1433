@@ -8,8 +8,8 @@
 \ql \cell\qc \cell\qc \cell\row
 \ql dataFederal\cell\qc 2.429***\cell\qc 0.369***\cell\row
 \ql \cell\qc (0.391)\cell\qc (0.0873)\cell\row
-\ql Constant\cell\qc 0.202***\cell\qc 0.0639***\cell\row
-\ql \cell\qc (0.0150)\cell\qc (0.000620)\cell\row
+\ql Constant\cell\qc 202.2***\cell\qc 63.94***\cell\row
+\ql \cell\qc (14.98)\cell\qc (0.620)\cell\row
 \ql \cell\qc \cell\qc \cell\row
 \ql Observations\cell\qc 7,220\cell\qc 7,220\cell\row
 \trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx3312\clbrdrb\brdrs\cellx5040

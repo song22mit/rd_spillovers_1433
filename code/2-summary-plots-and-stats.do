@@ -26,9 +26,9 @@ label values has_ffrdc has_ffrdc_values
 sort year has_ffrdc
 replace avg_annual_pay = avg_annual_pay/1000
 label variable avg_annual_pay "Average annual pay of employed workers (thousands 2019$)"
-replace annual_avg_emplvl = annual_avg_emplvl / 1000000 
-label variable annual_avg_emplvl "Annual average of total employment (million)"
-replace dataFederal = dataFederal / 1000000
+replace annual_avg_emplvl = annual_avg_emplvl / 1000
+label variable annual_avg_emplvl "Annual average of total employment (thousands)"
+replace dataFederal = dataFederal / 1000
 label variable dataFederal "Total federal FFRDC funding received (millions 2019$)"
 
 estimates clear
@@ -49,7 +49,7 @@ reg dataFederal i.msa_factor i.year if ffrdc_count > 0, robust
 predict resid_dataFederal_hasffrdc, residuals
 
 label variable resid_avg_annual_pay "Avg annual pay of employed workers, resid. by year and MSA (thousands 2019$)"
-label variable resid_annual_avg_emplvl "Annual average of total employment, residualized by year and MSA (million)"
+label variable resid_annual_avg_emplvl "Annual average of total employment, residualized by year and MSA (thousands)"
 label variable resid_dataFederal "Total federal FFRDC funding, residualized by year and MSA (millions 2019$)"
 label variable resid_dataFederal_hasffrdc "Total federal FFRDC funding, residualized by year and MSA (millions 2019$)"
 
@@ -76,9 +76,9 @@ esttab using output/summarystats_by_year_ffrdc.csv, cells("mean(fmt(2)) sd(fmt(2
 use data/intermediate/merged_allMSAs_allind_post01, clear
 replace avg_annual_pay = avg_annual_pay/1000
 label variable avg_annual_pay "Average annual pay of employed workers (thousands 2019$)"
-replace annual_avg_emplvl = annual_avg_emplvl / 1000000 
-label variable annual_avg_emplvl "Annual average of total employment (million)"
-replace dataFederal = dataFederal / 1000000
+replace annual_avg_emplvl = annual_avg_emplvl / 1000
+label variable annual_avg_emplvl "Annual average of total employment (thousands)"
+replace dataFederal = dataFederal / 1000
 label variable dataFederal "Total federal FFRDC funding received (millions 2019$)"
 
 //OLS regression 

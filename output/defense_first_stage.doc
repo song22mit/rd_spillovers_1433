@@ -6,10 +6,10 @@
 \ql VARIABLES\cell\qc With MSA FE\cell\row
 \trowd\trgaph75\trleft-75\trqc\cellx4752\cellx6480
 \ql \cell\qc \cell\row
-\ql resid_defense_funding_instrument\cell\qc 2.12e-06***\cell\row
-\ql \cell\qc (2.18e-07)\cell\row
-\ql Constant\cell\qc 0\cell\row
-\ql \cell\qc (0.000517)\cell\row
+\ql resid_defense_funding_instrument\cell\qc 0.00212***\cell\row
+\ql \cell\qc (0.000218)\cell\row
+\ql Constant\cell\qc 3.84e-08\cell\row
+\ql \cell\qc (0.517)\cell\row
 \ql \cell\qc \cell\row
 \ql Observations\cell\qc 7,220\cell\row
 \ql R-squared\cell\qc 0.452\cell\row
