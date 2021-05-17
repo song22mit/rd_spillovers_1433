@@ -6,15 +6,15 @@
 \ql VARIABLES\cell\qc With MSA FE\cell\row
 \trowd\trgaph75\trleft-75\trqc\cellx4752\cellx6480
 \ql \cell\qc \cell\row
-\ql resid_defense_funding_instrument\cell\qc 0.00212***\cell\row
-\ql \cell\qc (0.000218)\cell\row
-\ql Constant\cell\qc 3.84e-08\cell\row
-\ql \cell\qc (0.517)\cell\row
+\ql resid_defense_funding_instrument\cell\qc 1.35e-09***\cell\row
+\ql \cell\qc (4.28e-10)\cell\row
+\ql Constant\cell\qc -1.05e-09\cell\row
+\ql \cell\qc (6.88e-10)\cell\row
 \ql \cell\qc \cell\row
-\ql Observations\cell\qc 7,220\cell\row
-\ql R-squared\cell\qc 0.452\cell\row
+\ql Observations\cell\qc 7,372\cell\row
+\ql R-squared\cell\qc 0.002\cell\row
 \trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx4752\clbrdrb\brdrs\cellx6480
-\ql F stat\cell\qc 94.83\cell\row
+\ql F stat\cell\qc 9.865\cell\row
 \pard\qc
 Robust standard errors in parentheses\par
 *** p<0.01, ** p<0.05, * p<0.1\par

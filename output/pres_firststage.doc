@@ -6,25 +6,25 @@
 \ql VARIABLES\cell\qc No MSA FE\cell\qc With MSA FE\cell\row
 \trowd\trgaph75\trleft-75\trqc\cellx3600\cellx5040\cellx6768
 \ql \cell\qc \cell\qc \cell\row
-\ql voted_for_winner\cell\qc -13.01\cell\qc \cell\row
-\ql \cell\qc (10.99)\cell\qc \cell\row
-\ql election_gap\cell\qc 242.1***\cell\qc \cell\row
-\ql \cell\qc (59.64)\cell\qc \cell\row
-\ql product_winner_gap\cell\qc -60.03\cell\qc \cell\row
-\ql \cell\qc (68.46)\cell\qc \cell\row
-\ql resid_voted_for_winner\cell\qc \cell\qc 4.275***\cell\row
-\ql \cell\qc \cell\qc (1.447)\cell\row
-\ql resid_election_gap\cell\qc \cell\qc 109.7***\cell\row
-\ql \cell\qc \cell\qc (22.38)\cell\row
-\ql resid_product_winner_gap\cell\qc \cell\qc -30.01**\cell\row
-\ql \cell\qc \cell\qc (11.76)\cell\row
-\ql Constant\cell\qc 9.797\cell\qc 3.22e-08\cell\row
-\ql \cell\qc (9.774)\cell\qc (0.695)\cell\row
+\ql voted_for_winner\cell\qc -0.407\cell\qc \cell\row
+\ql \cell\qc (0.257)\cell\qc \cell\row
+\ql election_gap\cell\qc 2.344\cell\qc \cell\row
+\ql \cell\qc (2.040)\cell\qc \cell\row
+\ql product_winner_gap\cell\qc -0.316\cell\qc \cell\row
+\ql \cell\qc (1.013)\cell\qc \cell\row
+\ql resid_voted_for_winner\cell\qc \cell\qc 0.0164\cell\row
+\ql \cell\qc \cell\qc (0.0289)\cell\row
+\ql resid_election_gap\cell\qc \cell\qc 0.0499\cell\row
+\ql \cell\qc \cell\qc (0.367)\cell\row
+\ql resid_product_winner_gap\cell\qc \cell\qc -0.101\cell\row
+\ql \cell\qc \cell\qc (0.119)\cell\row
+\ql Constant\cell\qc 0.845**\cell\qc -1.06e-09\cell\row
+\ql \cell\qc (0.408)\cell\qc (6.93e-10)\cell\row
 \ql \cell\qc \cell\qc \cell\row
 \ql Observations\cell\qc 7,220\cell\qc 7,220\cell\row
-\ql R-squared\cell\qc 0.012\cell\qc 0.010\cell\row
+\ql R-squared\cell\qc 0.007\cell\qc 0.000\cell\row
 \trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx3600\clbrdrb\brdrs\cellx5040\clbrdrb\brdrs\cellx6768
-\ql F stat\cell\qc 20.87\cell\qc 10.52\cell\row
+\ql F stat\cell\qc 3.769\cell\qc 0.986\cell\row
 \pard\qc
 Robust standard errors in parentheses\par
 *** p<0.01, ** p<0.05, * p<0.1\par

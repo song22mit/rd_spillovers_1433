@@ -1,11 +1,11 @@
 	(1)	(2)	(3)	(4)
 	OLS full controls	OLS full controls	IV defense instrument	IV defense instrument
-VARIABLES	Average annual pay (thousands 2019$)	Average employment (millions)	Average annual pay (thousands 2019$)	Average employment (millions)
+VARIABLES	Average annual pay (thousands 2019$)	Average employment (thousands)	Average annual pay (thousands 2019$)	Average employment (thousands)
 				
-dataFederal	-0.185	-0.00211	4.762***	-0.0164***
-	(0.526)	(0.00591)	(0.651)	(0.00492)
-Constant	45.78***	0.00354***	48.88***	0.00321***
-	(0.869)	(0.000422)	(1.243)	(8.96e-05)
+dataFederal	-0.000185	-0.00211	0.00476***	-0.0164***
+	(0.000526)	(0.00591)	(0.000651)	(0.00492)
+Constant	45.78***	3.539***	48.88***	3.208***
+	(0.869)	(0.422)	(1.243)	(0.0896)
 				
 Observations	7,353	7,372	7,353	7,372
 R-squared	0.917	0.980	0.848	0.977

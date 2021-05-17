@@ -1,12 +1,11 @@
 	(1)	(2)
 VARIABLES	No MSA FE	With MSA FE
 		
-dataFederal	0.0377***	0.0749***
-	(0.00622)	(0.0148)
-Constant	44.76***	39.34***
-	(0.236)	(0.541)
+log_federal_funding	0.0304**	0.575
+	(0.0126)	(0.447)
+Constant	10.70***	10.58***
+	(0.0130)	(9.70e-11)
 		
 Observations	7,220	7,220
-R-squared		0.681
 Robust standard errors in parentheses		
 *** p<0.01, ** p<0.05, * p<0.1		

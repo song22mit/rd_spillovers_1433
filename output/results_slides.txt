@@ -1,0 +1,16 @@
+	(1)	(2)	(3)	(4)
+	OLS full controls	OLS full controls	IV defense instrument	IV defense instrument
+VARIABLES	Average annual pay (thousands 2019$)	Average employment (thousands)	Average annual pay (thousands 2019$)	Average employment (thousands)
+				
+federal_funding	0.000577	0.130*	0.00510***	0.130***
+	(0.000717)	(0.0742)	(0.00145)	(0.0250)
+Constant	37.16***	52.69***	39.34***	63.94***
+	(0.102)	(2.199)	(5.41e-10)	(1.74e-08)
+				
+Observations	7,372	7,372	7,372	7,372
+R-squared	0.965	0.996	0.943	0.996
+MSA FE	Yes	Yes	Yes	Yes
+Year FE	Yes	Yes	No	No
+FFRDC count FE	Yes	Yes	No	No
+Robust standard errors in parentheses				
+*** p<0.01, ** p<0.05, * p<0.1				

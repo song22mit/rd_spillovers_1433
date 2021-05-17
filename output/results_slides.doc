@@ -1,0 +1,25 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx2304\clbrdrt\brdrs\cellx7632\clbrdrt\brdrs\cellx12096\clbrdrt\brdrs\cellx17424\clbrdrt\brdrs\cellx21888
+\ql \cell\qc (1)\cell\qc (2)\cell\qc (3)\cell\qc (4)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2304\cellx7632\cellx12096\cellx17424\cellx21888
+\ql \cell\qc OLS full controls\cell\qc OLS full controls\cell\qc IV defense instrument\cell\qc IV defense instrument\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2304\cellx7632\cellx12096\cellx17424\cellx21888
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx2304\clbrdrb\brdrs\cellx7632\clbrdrb\brdrs\cellx12096\clbrdrb\brdrs\cellx17424\clbrdrb\brdrs\cellx21888
+\ql VARIABLES\cell\qc Average annual pay (thousands 2019$)\cell\qc Average employment (thousands)\cell\qc Average annual pay (thousands 2019$)\cell\qc Average employment (thousands)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx2304\cellx7632\cellx12096\cellx17424\cellx21888
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql federal_funding\cell\qc 0.000577\cell\qc 0.130*\cell\qc 0.00510***\cell\qc 0.130***\cell\row
+\ql \cell\qc (0.000717)\cell\qc (0.0742)\cell\qc (0.00145)\cell\qc (0.0250)\cell\row
+\ql Constant\cell\qc 37.16***\cell\qc 52.69***\cell\qc 39.34***\cell\qc 63.94***\cell\row
+\ql \cell\qc (0.102)\cell\qc (2.199)\cell\qc (5.41e-10)\cell\qc (1.74e-08)\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql Observations\cell\qc 7,372\cell\qc 7,372\cell\qc 7,372\cell\qc 7,372\cell\row
+\ql R-squared\cell\qc 0.965\cell\qc 0.996\cell\qc 0.943\cell\qc 0.996\cell\row
+\ql MSA FE\cell\qc Yes\cell\qc Yes\cell\qc Yes\cell\qc Yes\cell\row
+\ql Year FE\cell\qc Yes\cell\qc Yes\cell\qc No\cell\qc No\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx2304\clbrdrb\brdrs\cellx7632\clbrdrb\brdrs\cellx12096\clbrdrb\brdrs\cellx17424\clbrdrb\brdrs\cellx21888
+\ql FFRDC count FE\cell\qc Yes\cell\qc Yes\cell\qc No\cell\qc No\cell\row
+\pard\qc
+Robust standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}
