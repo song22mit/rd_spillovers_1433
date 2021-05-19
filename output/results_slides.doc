@@ -11,7 +11,7 @@
 \ql federal_funding\cell\qc 0.000577\cell\qc 0.130*\cell\qc 0.00510***\cell\qc 0.130***\cell\row
 \ql \cell\qc (0.000717)\cell\qc (0.0742)\cell\qc (0.00145)\cell\qc (0.0250)\cell\row
 \ql Constant\cell\qc 37.16***\cell\qc 52.69***\cell\qc 39.34***\cell\qc 63.94***\cell\row
-\ql \cell\qc (0.102)\cell\qc (2.199)\cell\qc (5.41e-10)\cell\qc (1.74e-08)\cell\row
+\ql \cell\qc (0.102)\cell\qc (2.199)\cell\qc (5.43e-10)\cell\qc (1.87e-08)\cell\row
 \ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
 \ql Observations\cell\qc 7,372\cell\qc 7,372\cell\qc 7,372\cell\qc 7,372\cell\row
 \ql R-squared\cell\qc 0.965\cell\qc 0.996\cell\qc 0.943\cell\qc 0.996\cell\row

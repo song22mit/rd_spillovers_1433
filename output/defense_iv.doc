@@ -8,12 +8,12 @@
 \ql \cell\qc \cell\qc \cell\row
 \ql log_federal_funding\cell\qc 0.116***\cell\qc 0.0892***\cell\row
 \ql \cell\qc (0.0304)\cell\qc (0.0177)\cell\row
-\ql Constant\cell\qc 10.58***\cell\qc 11.06***\cell\row
+\ql Constant\cell\qc 11.27***\cell\qc 11.76***\cell\row
 \ql \cell\qc (0)\cell\qc (0)\cell\row
 \ql \cell\qc \cell\qc \cell\row
 \ql Observations\cell\qc 7,372\cell\qc 7,372\cell\row
 \trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx2880\clbrdrb\brdrs\cellx7056\clbrdrb\brdrs\cellx11232
-\ql R-squared\cell\qc 0.778\cell\qc 0.994\cell\row
+\ql R-squared\cell\qc 0.764\cell\qc 0.994\cell\row
 \pard\qc
 Robust standard errors in parentheses\par
 *** p<0.01, ** p<0.05, * p<0.1\par

@@ -6,10 +6,10 @@
 \ql VARIABLES\cell\qc No MSA FE\cell\qc With MSA FE\cell\row
 \trowd\trgaph75\trleft-75\trqc\cellx2880\cellx4320\cellx6048
 \ql \cell\qc \cell\qc \cell\row
-\ql log_federal_funding\cell\qc 0.0304**\cell\qc 0.575\cell\row
-\ql \cell\qc (0.0126)\cell\qc (0.447)\cell\row
-\ql Constant\cell\qc 10.70***\cell\qc 10.58***\cell\row
-\ql \cell\qc (0.0130)\cell\qc (9.70e-11)\cell\row
+\ql log_federal_funding\cell\qc 0.0293**\cell\qc 0.516\cell\row
+\ql \cell\qc (0.0121)\cell\qc (0.400)\cell\row
+\ql Constant\cell\qc 11.39***\cell\qc 11.27***\cell\row
+\ql \cell\qc (0.0130)\cell\qc (5.68e-11)\cell\row
 \ql \cell\qc \cell\qc \cell\row
 \trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx2880\clbrdrb\brdrs\cellx4320\clbrdrb\brdrs\cellx6048
 \ql Observations\cell\qc 7,220\cell\qc 7,220\cell\row

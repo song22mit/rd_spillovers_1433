@@ -3,10 +3,9 @@ cd C:\Users\ecsxn\Documents\repo\rd_spillovers_1433
 use data/intermediate/merged_MetroMSAs_constructionretail_private_post01, clear
 
 //take logs
-gen log_avg_annual_pay = ln(avg_annual_pay)
-gen log_annual_avg_emplvl = ln(annual_avg_emplvl)
-gen log_federal_funding = ln(federal_funding * 1000)
-recode log_* (. = 0)
+gen log_avg_annual_pay = asinh(avg_annual_pay)
+gen log_annual_avg_emplvl = asinh(annual_avg_emplvl)
+gen log_federal_funding = asinh(federal_funding * 1000)
 
 replace avg_annual_pay = avg_annual_pay/1000
 label variable avg_annual_pay "Average annual pay of employed workers (thousands 2019$)"

@@ -6,13 +6,13 @@
 \ql VARIABLES\cell\qc log_annual_avg_emplvl\cell\qc log_annual_avg_emplvl\cell\qc log_annual_avg_emplvl\cell\qc log_annual_avg_emplvl\cell\row
 \trowd\trgaph75\trleft-75\trqc\cellx2880\cellx6048\cellx9216\cellx12384\cellx15552
 \ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
-\ql log_federal_funding\cell\qc 0.0856***\cell\qc 0.00154\cell\qc 0.00114\cell\qc -0.0121\cell\row
-\ql \cell\qc (0.0173)\cell\qc (0.00166)\cell\qc (0.000772)\cell\qc (0.0211)\cell\row
-\ql Constant\cell\qc 11.66***\cell\qc 11.06***\cell\qc 11.02***\cell\qc 11.02***\cell\row
+\ql log_federal_funding\cell\qc 0.0826***\cell\qc 0.00148\cell\qc 0.00110\cell\qc -0.0121\cell\row
+\ql \cell\qc (0.0167)\cell\qc (0.00160)\cell\qc (0.000738)\cell\qc (0.0211)\cell\row
+\ql Constant\cell\qc 12.35***\cell\qc 11.76***\cell\qc 11.71***\cell\qc 11.71***\cell\row
 \ql \cell\qc (0.0536)\cell\qc (0)\cell\qc (0.00464)\cell\qc (0.00466)\cell\row
 \ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
 \ql Observations\cell\qc 7,372\cell\qc 7,372\cell\qc 7,372\cell\qc 7,372\cell\row
-\ql R-squared\cell\qc 0.109\cell\qc 0.997\cell\qc 0.998\cell\qc 0.998\cell\row
+\ql R-squared\cell\qc 0.108\cell\qc 0.997\cell\qc 0.998\cell\qc 0.998\cell\row
 \ql MSA FE\cell\qc No\cell\qc Yes\cell\qc Yes\cell\qc Yes\cell\row
 \ql Year FE\cell\qc No\cell\qc No\cell\qc Yes\cell\qc Yes\cell\row
 \trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx2880\clbrdrb\brdrs\cellx6048\clbrdrb\brdrs\cellx9216\clbrdrb\brdrs\cellx12384\clbrdrb\brdrs\cellx15552

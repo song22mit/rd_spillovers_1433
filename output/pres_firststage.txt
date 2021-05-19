@@ -1,23 +1,23 @@
 	(1)	(2)
 VARIABLES	No MSA FE	With MSA FE
 		
-voted_for_winner	-0.407	
-	(0.257)	
-election_gap	2.344	
-	(2.040)	
-product_winner_gap	-0.316	
-	(1.013)	
-resid_voted_for_winner		0.0164
-		(0.0289)
-resid_election_gap		0.0499
-		(0.367)
-resid_product_winner_gap		-0.101
-		(0.119)
-Constant	0.845**	-1.06e-09
-	(0.408)	(6.93e-10)
+voted_for_winner	-0.422	
+	(0.266)	
+election_gap	2.415	
+	(2.110)	
+product_winner_gap	-0.323	
+	(1.047)	
+resid_voted_for_winner		0.0170
+		(0.0300)
+resid_election_gap		0.0475
+		(0.382)
+resid_product_winner_gap		-0.104
+		(0.123)
+Constant	0.878**	0
+	(0.423)	(1.80e-10)
 		
 Observations	7,220	7,220
 R-squared	0.007	0.000
-F stat	3.769	0.986
+F stat	3.768	0.990
 Robust standard errors in parentheses		
 *** p<0.01, ** p<0.05, * p<0.1		

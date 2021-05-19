@@ -3,10 +3,10 @@ VARIABLES	Average annual pay (log-log)	Average employment (log-log)
 		
 log_federal_funding	0.116***	0.0892***
 	(0.0304)	(0.0177)
-Constant	10.58***	11.06***
+Constant	11.27***	11.76***
 	(0)	(0)
 		
 Observations	7,372	7,372
-R-squared	0.778	0.994
+R-squared	0.764	0.994
 Robust standard errors in parentheses		
 *** p<0.01, ** p<0.05, * p<0.1		

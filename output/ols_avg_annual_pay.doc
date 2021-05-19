@@ -6,9 +6,9 @@
 \ql VARIABLES\cell\qc log_avg_annual_pay\cell\qc log_avg_annual_pay\cell\qc log_avg_annual_pay\cell\qc log_avg_annual_pay\cell\row
 \trowd\trgaph75\trleft-75\trqc\cellx2880\cellx5616\cellx8352\cellx11088\cellx13824
 \ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
-\ql log_federal_funding\cell\qc 0.0127***\cell\qc -0.000190\cell\qc -0.000549\cell\qc 0.0121\cell\row
-\ql \cell\qc (0.00228)\cell\qc (0.00273)\cell\qc (0.00105)\cell\qc (0.00812)\cell\row
-\ql Constant\cell\qc 10.71***\cell\qc 10.58***\cell\qc 10.53***\cell\qc 10.53***\cell\row
+\ql log_federal_funding\cell\qc 0.0123***\cell\qc -0.000203\cell\qc -0.000536\cell\qc 0.0121\cell\row
+\ql \cell\qc (0.00220)\cell\qc (0.00263)\cell\qc (0.00101)\cell\qc (0.00812)\cell\row
+\ql Constant\cell\qc 11.40***\cell\qc 11.27***\cell\qc 11.22***\cell\qc 11.22***\cell\row
 \ql \cell\qc (0.00830)\cell\qc (0)\cell\qc (0.00207)\cell\qc (0.00208)\cell\row
 \ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
 \ql Observations\cell\qc 7,372\cell\qc 7,372\cell\qc 7,372\cell\qc 7,372\cell\row

@@ -5,7 +5,7 @@ VARIABLES	Average annual pay (thousands 2019$)	Average employment (thousands)	Av
 federal_funding	0.000577	0.130*	0.00510***	0.130***
 	(0.000717)	(0.0742)	(0.00145)	(0.0250)
 Constant	37.16***	52.69***	39.34***	63.94***
-	(0.102)	(2.199)	(5.41e-10)	(1.74e-08)
+	(0.102)	(2.199)	(5.43e-10)	(1.87e-08)
 				
 Observations	7,372	7,372	7,372	7,372
 R-squared	0.965	0.996	0.943	0.996

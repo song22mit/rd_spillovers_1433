@@ -8,8 +8,8 @@
 \ql \cell\qc \cell\row
 \ql resid_defense_funding_instrument\cell\qc 1.35e-09***\cell\row
 \ql \cell\qc (4.28e-10)\cell\row
-\ql Constant\cell\qc -1.05e-09\cell\row
-\ql \cell\qc (6.88e-10)\cell\row
+\ql Constant\cell\qc 0\cell\row
+\ql \cell\qc (1.48e-10)\cell\row
 \ql \cell\qc \cell\row
 \ql Observations\cell\qc 7,372\cell\row
 \ql R-squared\cell\qc 0.002\cell\row

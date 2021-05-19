@@ -119,10 +119,9 @@ restore
 
 
 //take logs
-gen log_avg_annual_pay = ln(avg_annual_pay * 1000)
-gen log_annual_avg_emplvl = ln(annual_avg_emplvl * 1000)
-gen log_federal_funding = ln(federal_funding * 1000000)
-recode log_* (. = 0)
+gen log_avg_annual_pay = asinh(avg_annual_pay * 1000)
+gen log_annual_avg_emplvl = asinh(annual_avg_emplvl * 1000)
+gen log_federal_funding = asinh(federal_funding * 1000000)
 
 
 //regressions for paper
@@ -206,9 +205,9 @@ encode msacode, gen(msa_factor)
 drop _merge
 
 //take logs
-gen log_avg_annual_pay = ln(avg_annual_pay)
-gen log_annual_avg_emplvl = ln(annual_avg_emplvl)
-gen log_federal_funding = ln(federal_funding * 1000)
+gen log_avg_annual_pay = asinh(avg_annual_pay)
+gen log_annual_avg_emplvl = asinh(annual_avg_emplvl)
+gen log_federal_funding = asinh(federal_funding * 1000)
 recode log_* (. = 0)
 
 gen product_winner_gap = voted_for_winner * election_gap
